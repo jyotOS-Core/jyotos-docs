@@ -1,11 +1,17 @@
 # Table of contents
 
-* ```yaml
-  type: builtin:translation
-  props: {}
-  dependencies:
-    translation:
-      ref:
-        kind: translation
-        translation: tr_TPxfH
-  ```
+* [Welcome to JyotOS Help Center](README.md)
+* [About JyotOS](about-jyotos.md)
+* [Documentation Standards](documentation-standards.md)
+* [StaffBridge](staffbridge.md)
+* [Release Notes](release-notes.md)
+* [Feedback & Suggestions](feedback-and-suggestions.md)
+* [StaffBridge Overview](staffbridge-overview.md)
+* [Getting Started with StaffBridge](getting-started-with-staffbridge.md)
+* [Complete Your Staff Onboarding](complete-your-staff-onboarding.md)
+* [Personal & Employment Information](personal-and-employment-information.md)
+* [Photo & Signature Guidelines](photo-and-signature-guidelines.md)
+* [Understanding Your Profile Status](understanding-your-profile-status.md)
+* [Responding to Correction Requests](responding-to-correction-requests.md)
+* [Using Your Staff Dashboard](using-your-staff-dashboard.md)
+* [JDDS-001: JyotOS Documentation Design System](jdds-001-jyotos-documentation-design-system.md)
