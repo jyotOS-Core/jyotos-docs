@@ -6,14 +6,14 @@
 * **Estimated Reading Time:** 4 minutes
 * **Target Audience:** All Staff Members Tracking Onboarding Verification Progress
 * **Applies To:** StaffBridge
-* **Last Updated:** 05 August 2026 | **Version:** 1.0
+* **Last Updated:** 06 August 2026 | **Version:** Internal Preview v0.2 (Draft)
 {% endhint %}
 
 This guide explains each status code displayed on your StaffBridge dashboard, what it indicates about your registration, and what action you should take.
 
 ***
 
-## Profile Review Timeline
+## Profile Review Lifecycle
 
 Your registration moves through a progressive review lifecycle:
 
@@ -28,7 +28,10 @@ Submitted ──► Coordinator Verified ──► Needs Correction ──► Co
 📷 Screenshot Placeholder\
 _&#x44;escription:_ Dashboard Profile Status Card\
 _&#x52;equired View:_ Status badge, reference ID, and review timestamps\
-_&#x4D;asking Required:_ Yes (Mask personal contact details)
+_&#x4D;asking Required:_ Yes\
+_&#x44;ummy Data Requirement:_ Use sample staff record details\
+_&#x53;uggested Caption:_ Figure 1: Staff Dashboard status tracking card\
+_&#x41;ccessibility Alt Text:_ Card displaying current profile status badge and timestamp details
 
 ### 1. Submitted
 
@@ -46,7 +49,7 @@ _&#x4D;asking Required:_ Yes (Mask personal contact details)
 
 * **Meaning:** An administrator or coordinator has reviewed your profile and flagged one or more specific fields that require clarification or updated information.
 * **Review Level:** Action needed from staff member.
-* **Staff Action Required:** Log into your dashboard at `/staff/dashboard`. View the **Pending Correction Fields** banner, update the flagged details, and submit your update.
+* **Staff Action Required:** Sign in to your dashboard. View the **Pending Correction Fields** section, update the flagged details, and submit your update.
 
 ### 4. Correction Submitted
 
@@ -58,7 +61,7 @@ _&#x4D;asking Required:_ Yes (Mask personal contact details)
 
 * **Meaning:** Your profile has received final approval from the System Administrator or Principal.
 * **Review Level:** Complete.
-* **Staff Action Required:** None. Your profile is fully verified and active across institutional systems.
+* **Staff Action Required:** None. Your profile is fully verified across institutional systems.
 
 ***
 
@@ -76,6 +79,6 @@ _&#x4D;asking Required:_ Yes (Mask personal contact details)
 
 ***
 
-**Version:** 1.0 | **Last Updated:** 05 August 2026 | **Applies To:** StaffBridge\
-**Previous Step:** ← Photo & Signature Guidelines | **Next Step:** Responding to Correction Requests →\
+**Version:** Internal Preview v0.2 (Draft) | **Last Updated:** 06 August 2026 | **Applies To:** StaffBridge\
+**Previous Step:** ← Photo & Signature Guidelines | **Next Step:** Responding to Correction Requests\
 **Related Guides:** Responding to Correction Requests · Using Your Staff Dashboard
