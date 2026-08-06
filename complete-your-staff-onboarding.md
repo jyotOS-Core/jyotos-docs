@@ -6,7 +6,7 @@
 * **Estimated Reading Time:** 5 minutes
 * **Target Audience:** All Amroli College Staff Members Completing Registration
 * **Applies To:** StaffBridge Onboarding Registration
-* **Last Updated:** 06 August 2026 | **Version:** Internal Preview v0.3 (Draft)
+* **Last Updated:** 06 August 2026 | **Version:** Internal Preview v0.3
 {% endhint %}
 
 This guide provides a detailed, step-by-step walkthrough to fill out your onboarding form, upload identification media, and complete registration.
@@ -35,6 +35,8 @@ Select your Blood Group. Upload a front-facing passport portrait and upload or d
 
 Review your selection summary in the final section before submitting:
 
+![Figure 1: StaffBridge mobile submission summary panel showing selected options and primary Submit Staff Information button](https://raw.githubusercontent.com/jyotOS-Core/jyotos-docs/main/.gitbook/assets/staffbridge/onboarding/staffbridge-staff-onboarding-mobile-v6.png)
+
 1. Confirm all summary details match your appointment.
 2. Check the confirmation box: _"I confirm that the above information is correct."_
 3. Click **Submit Staff Information**.
@@ -47,6 +49,6 @@ Upon successful submission, the system generates your unique **Staff Reference I
 
 ***
 
-**Version:** Internal Preview v0.3 (Draft) | **Last Updated:** 06 August 2026 | **Applies To:** StaffBridge\
+**Version:** Internal Preview v0.3 | **Last Updated:** 06 August 2026 | **Applies To:** StaffBridge\
 **Previous Step:** ← Getting Started with StaffBridge | **Next Step:** Personal & Employment Information →\
 **Related Guides:** Personal & Employment Information · Photo & Signature Guidelines

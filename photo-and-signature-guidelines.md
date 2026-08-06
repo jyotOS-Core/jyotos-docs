@@ -6,7 +6,7 @@
 * **Estimated Reading Time:** 4 minutes
 * **Target Audience:** All Staff Members
 * **Applies To:** StaffBridge Identification Media
-* **Last Updated:** 06 August 2026 | **Version:** Internal Preview v0.3 (Draft)
+* **Last Updated:** 06 August 2026 | **Version:** Internal Preview v0.3
 {% endhint %}
 
 This guide details quality standards, upload instructions, and privacy rules for identification media.
@@ -14,6 +14,8 @@ This guide details quality standards, upload instructions, and privacy rules for
 ***
 
 ## Identification Media Section
+
+![Figure 1: StaffBridge mobile Photo, Signature & Consent upload section showing media file selectors and consent checkbox](https://raw.githubusercontent.com/jyotOS-Core/jyotos-docs/main/.gitbook/assets/staffbridge/onboarding/staffbridge-staff-onboarding-mobile-v5.png)
 
 ***
 
@@ -31,6 +33,6 @@ This guide details quality standards, upload instructions, and privacy rules for
 
 ***
 
-**Version:** Internal Preview v0.3 (Draft) | **Last Updated:** 06 August 2026 | **Applies To:** StaffBridge\
+**Version:** Internal Preview v0.3 | **Last Updated:** 06 August 2026 | **Applies To:** StaffBridge\
 **Previous Step:** ← Personal & Employment Information | **Next Step:** Understanding Your Profile Status →\
 **Related Guides:** Complete Your Staff Onboarding · Troubleshoot Photo & Signature

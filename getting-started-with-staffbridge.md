@@ -6,7 +6,7 @@
 * **Estimated Reading Time:** 3 minutes
 * **Target Audience:** New and Existing Amroli College Staff Members
 * **Applies To:** StaffBridge Onboarding Registration
-* **Last Updated:** 06 August 2026 | **Version:** Internal Preview v0.3 (Draft)
+* **Last Updated:** 06 August 2026 | **Version:** Internal Preview v0.3
 {% endhint %}
 
 Welcome to the **Getting Started Guide** for StaffBridge. This guide provides a high-level preparation checklist and overview of the staff onboarding registration journey.
@@ -30,6 +30,8 @@ Before beginning your registration, ensure you have the following information an
 
 The onboarding registration form is organized into logical sections to guide you through entering your details smoothly.
 
+![Figure 1: StaffBridge mobile onboarding registration form showing header and Personal Information section](https://raw.githubusercontent.com/jyotOS-Core/jyotos-docs/main/.gitbook/assets/staffbridge/onboarding/staffbridge-staff-onboarding-mobile-v1.png)
+
 ***
 
 ## The 6-Step Onboarding Journey
@@ -47,6 +49,6 @@ The onboarding registration form is organized into logical sections to guide you
 
 ***
 
-**Version:** Internal Preview v0.3 (Draft) | **Last Updated:** 06 August 2026 | **Applies To:** StaffBridge\
+**Version:** Internal Preview v0.3 | **Last Updated:** 06 August 2026 | **Applies To:** StaffBridge\
 **Previous Step:** ← StaffBridge Overview | **Next Step:** Complete Your Staff Onboarding →\
 **Related Guides:** Complete Your Staff Onboarding · Personal & Employment Information
