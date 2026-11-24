@@ -28,7 +28,7 @@ You can quickly find answers across all documentation guides and FAQs using the 
 Before reporting an issue, consult the dedicated troubleshooting pages for step-by-step resolution:
 
 * **JyotOS Central Issues:** See [Central Troubleshooting](../products/central/troubleshooting.md) for help with portal login alerts, locked cards, and access requests.
-* **StaffBridge & Onboarding Issues:** Visit the [StaffBridge Troubleshooting Center](../staffbridge-troubleshooting-center.md) for assistance with document uploads, photo specifications, and profile verification status.
+* **StaffBridge & Onboarding Issues:** Visit the [StaffBridge Troubleshooting Center](../products/staffbridge/troubleshooting/README.md) for assistance with document uploads, photo specifications, and profile verification status.
 * **Frequently Asked Questions:** Review the [Frequently Asked Questions](../frequently-asked-questions.md) and [Central FAQ](../products/central/faq.md) for direct answers to common questions.
 
 ***
@@ -64,4 +64,4 @@ To help administrators resolve your issue promptly, always provide:
 
 **Last Updated:** 24 November 2026 | **Applies To:** JyotOS Ecosystem\
 **Previous Step:** [← Your first 5 minutes](your-first-5-minutes.md) | **Next Step:** [JyotOS Central Overview →](../products/central/overview.md)\
-**Related Guides:** [Central Troubleshooting](../products/central/troubleshooting.md) · [StaffBridge Troubleshooting Center](../staffbridge-troubleshooting-center.md) · [Feedback & Suggestions](../feedback-and-suggestions.md)
+**Related Guides:** [Central Troubleshooting](../products/central/troubleshooting.md) · [StaffBridge Troubleshooting Center](../products/staffbridge/troubleshooting/README.md) · [Feedback & Suggestions](../feedback-and-suggestions.md)

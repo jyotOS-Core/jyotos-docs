@@ -84,4 +84,4 @@ The sign-in handshake window is time-limited. If you leave the login page open f
 
 **Last Updated:** 24 November 2026 | **Applies To:** JyotOS Ecosystem\
 **Previous Step:** [← What is JyotOS?](what-is-jyotos.md) | **Next Step:** [The app launcher →](the-app-launcher.md)\
-**Related Guides:** [The app launcher](the-app-launcher.md) · [Your first 5 minutes](your-first-5-minutes.md) · [Understanding Your Profile Status](../understanding-your-profile-status.md)
+**Related Guides:** [The app launcher](the-app-launcher.md) · [Your first 5 minutes](your-first-5-minutes.md) · [Understanding Profile Status](../products/staffbridge/understanding-profile-status.md)

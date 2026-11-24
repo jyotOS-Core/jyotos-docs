@@ -55,8 +55,8 @@ Welcome to the JyotOS ecosystem! Follow this quick 5-step checklist to get orien
 
 Depending on your institutional responsibilities, continue with the following guides:
 
-* **Teaching Faculty & General Staff:** Read the [Central Staff Guide](../products/central/staff-guide.md) and [Using Your Staff Dashboard](../using-your-staff-dashboard.md).
-* **Department Coordinators:** Explore the [Department Coordinator Guide](../department-coordinator-guide.md) to learn how to review and verify department staff submissions.
+* **Teaching Faculty & General Staff:** Read the [Central Staff Guide](../products/central/staff-guide.md) and [Using Your Dashboard](../products/staffbridge/using-your-dashboard.md).
+* **Department Coordinators:** Explore the [Department Coordinator Guide](../products/staffbridge/coordinator-guide.md) to learn how to review and verify department staff submissions.
 * **System Administrators:** Consult the [Central Administrator Guide](../products/central/administrator-guide.md) for application catalog and access governance procedures.
 
 ***

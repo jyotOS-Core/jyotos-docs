@@ -69,5 +69,5 @@ Update your profile information in StaffBridge and submit it for verification. O
 ***
 
 **Last Updated:** 24 November 2026 | **Applies To:** JyotOS Central\
-**Previous Step:** [← Central Troubleshooting](troubleshooting.md) | **Next Step:** [StaffBridge Overview →](../../staffbridge-overview.md)\
+**Previous Step:** [← Central Troubleshooting](troubleshooting.md) | **Next Step:** [StaffBridge Overview →](../staffbridge/overview.md)\
 **Related Guides:** [Central Overview](overview.md) · [Central Staff Guide](staff-guide.md) · [Central Administrator Guide](administrator-guide.md) · [Central Troubleshooting](troubleshooting.md)

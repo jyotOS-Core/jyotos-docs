@@ -32,7 +32,7 @@ The table below details current documentation coverage across applications withi
 | Application | Focus Area | Rollout Status | Help Center Guide |
 |---|---|---|---|
 | **JyotOS Central** | App Launcher & Portal | 🟢 Active Rollout | [Central Overview](products/central/overview.md) |
-| **StaffBridge** | Identity & Staff Onboarding | 🟢 Active Rollout | [StaffBridge Overview](staffbridge-overview.md) |
+| **StaffBridge** | Identity & Staff Onboarding | 🟢 Active Rollout | [StaffBridge Overview](products/staffbridge/overview.md) |
 | **EventOS** | Event Lifecycle & Gate Pass | 🟡 Pilot Rollout | Coming soon |
 | **ClassPulse Pro** | Academic Telemetry & AI Diary | 🟡 Pilot Rollout | Coming soon |
 | **jyotAssist AI** | WhatsApp CRM & Grounded Helpdesk | ⏳ Coming Soon | Portfolio Application |
@@ -65,7 +65,7 @@ If you are new to the JyotOS ecosystem, explore the **Start Here** section:
 Explore dedicated product documentation:
 
 * **[JyotOS Central](products/central/overview.md):** The central launchpad and administrative portal at [https://jyotos.vercel.app](https://jyotos.vercel.app).
-* **[StaffBridge](staffbridge.md):** The institutional identity authority, staff onboarding, and verification platform.
+* **[StaffBridge](products/staffbridge/overview.md):** The institutional identity authority, staff onboarding, and verification platform.
 
 ***
 
@@ -75,7 +75,7 @@ Finding answers in the Help Center is simple:
 
 * **Search Documentation:** Press **Ctrl + K** (or **Cmd + K** on macOS) at any time to search topics, guides, or error codes.
 * **Follow Step-by-Step Guides:** Access structured walkthroughs with clear checklists and status definitions.
-* **Troubleshoot Issues:** Review self-service guides in [Central Troubleshooting](products/central/troubleshooting.md) and the [StaffBridge Troubleshooting Center](staffbridge-troubleshooting-center.md).
+* **Troubleshoot Issues:** Review self-service guides in [Central Troubleshooting](products/central/troubleshooting.md) and the [StaffBridge Troubleshooting Center](products/staffbridge/troubleshooting/README.md).
 * **Submit Feedback:** Share recommendations or report unexpected behavior via the [Feedback & Suggestions](feedback-and-suggestions.md) page.
 
 ***
