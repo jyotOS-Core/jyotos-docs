@@ -8,7 +8,7 @@ This guide provides a detailed walkthrough for filling out the StaffBridge staff
 
 ### Step 1: Personal and Contact Details
 
-Navigate to `/staff/onboarding` on your mobile or desktop browser:
+Open the staff onboarding page on your mobile or desktop browser:
 
 1. **Full Name:** Enter your full legal name formatted in proper title case (e.g. `Dr. Hiral A. Patel`).
 2. **Gender:** Select `Male` or `Female`.
@@ -60,7 +60,7 @@ Once submitted, the system automatically:
 2. Sets your record status to **Submitted**.
 3. Displays a submission success screen with a **Download PDF Receipt** button. Click this button to save a copy of your onboarding receipt.
 
-Your assigned Department Coordinator and System Administrator will review your submission. You can track review progress by signing in to your personal dashboard at `/staff/dashboard`.
+Your assigned Department Coordinator and System Administrator will review your submission. You can track review progress by signing in to your personal staff dashboard.
 
 ***
 

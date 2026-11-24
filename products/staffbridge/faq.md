@@ -20,7 +20,7 @@ StaffBridge is the official staff identity, onboarding, profile management, and 
 All newly appointed and existing faculty members, administrative staff, laboratory personnel, library staff, and support personnel must complete onboarding.
 
 ### Do I need an account before completing onboarding?
-No. Initial onboarding registration at `/staff/onboarding` is publicly accessible and does not require prior sign-in. After submitting your form, you sign in to your dashboard using your official Google `@amrolicollege.ac.in` account.
+No. Initial onboarding registration is publicly accessible on the web portal and does not require prior sign-in. After submitting your form, you sign in to your dashboard using your official Google `@amrolicollege.ac.in` account.
 
 ### Which email address should I use for StaffBridge?
 You must use your official college email address ending with `@amrolicollege.ac.in`.
@@ -33,7 +33,7 @@ No. StaffBridge authentication restricts sign-in to the official institutional G
 Your Staff Reference ID is a unique institutional tracking code (formatted as `STAFF-2026-XXXX`) generated upon registration. It appears on your confirmation receipt, digital ID card, and dashboard.
 
 ### What happens after I submit my onboarding form?
-Your submission enters your department's verification queue under status **Submitted** (`submitted`). Your assigned Department Coordinator reviews your details.
+Your submission enters your department's verification queue under status **Submitted**. Your assigned Department Coordinator reviews your details.
 → See [Getting Started](getting-started.md).
 
 ---
@@ -75,15 +75,15 @@ Your uploaded media is visible only to authorized Department Coordinators, Syste
 ## 4. Profile Status and Verification
 
 ### What does each Profile Status mean?
-* **Submitted (`submitted`):** Registration submitted; waiting in department review queue.
-* **Coordinator Verified (`coordinator_verified`):** Department Coordinator verified credentials and department assignment.
-* **Needs Correction (`needs_correction`):** Reviewer flagged specific fields for update.
-* **Correction Submitted (`correction_submitted`):** Updated details submitted by staff; awaiting re-evaluation.
-* **Admin Verified (`admin_verified`):** Final institutional approval granted. When Active Status is Active, profile is **Ready**.
-* **Duplicate / Rejected (`duplicate` / `rejected`):** Flagged as duplicate or rejected by administration.
+* **Submitted:** Registration submitted; waiting in department review queue.
+* **Coordinator Verified:** Department Coordinator verified credentials and department assignment.
+* **Needs Correction:** Reviewer flagged specific fields for update.
+* **Correction Submitted:** Updated details submitted by staff; awaiting re-evaluation.
+* **Admin Verified:** Final institutional approval granted. When Active Status is Active, profile is **Ready**.
+* **Duplicate / Rejected:** Flagged as duplicate or rejected by administration.
 
 ### What is the difference between Profile Status and Active Status?
-* **Profile Status:** Measures verification lifecycle progress (`submitted` → `coordinator_verified` → `admin_verified`).
+* **Profile Status:** Measures verification lifecycle progress (Submitted → Coordinator Verified → Admin Verified).
 * **Active Status:** Governs operational account enablement (`Active` / `Inactive`).
 
 Both **Admin Verified** profile status and **Active** account status are required for an identity record to be **Ready** for single sign-on across connected JyotOS applications.
@@ -103,7 +103,7 @@ Sign in to your dashboard. Flagged fields are highlighted with reviewer remarks 
 No. Unflagged fields remain locked to preserve verified data integrity.
 
 ### What happens after I resubmit corrected information?
-Your profile transitions to **Correction Submitted** (`correction_submitted`), returning the record to your Department Coordinator's queue for re-evaluation.
+Your profile transitions to **Correction Submitted**, returning the record to your Department Coordinator's queue for re-evaluation.
 → See [Responding to Correction Requests](responding-to-correction-requests.md).
 
 ---
@@ -128,7 +128,7 @@ Coordinators can view submissions, profile sheets, uploaded media, and correctio
 No. Coordinator access boundaries restrict review and verification to assigned departments only.
 
 ### What actions can a Coordinator take?
-A coordinator can grant department verification (advancing the record to `coordinator_verified`) or request corrections (setting status to `needs_correction` with specific remarks).
+A coordinator can grant department verification (advancing the record to Coordinator Verified) or request corrections (setting status to Needs Correction with specific remarks).
 → See [Department Coordinator Guide](coordinator-guide.md).
 
 ---
@@ -137,14 +137,14 @@ A coordinator can grant department verification (advancing the record to `coordi
 
 ### What sections does the administrator portal have?
 The administrator portal features exactly five dedicated sections:
-1. **Dashboard (`/admin`):** System metrics, pending actions, and activity overview.
-2. **Directory & ID Cards (`/admin/directory`):** Visual staff directory grouped by campus with ID card generation and bulk ZIP export.
-3. **Reports & Exports (`/admin/reports`):** Comprehensive roster filtering and export to CSV, XLS, and printable PDF.
-4. **Communications (`/admin/notification-center`):** Notification Center for dispatching template-based emails under a 100 emails/day quota.
-5. **Access Control (`/admin/access-control`):** User role management (`admin`, `principal`, `coordinator`, `staff`, `pending`) and coordinator department mapping.
+1. **Dashboard:** System metrics, pending actions, and activity overview.
+2. **Directory & ID Cards:** Visual staff directory grouped by campus with ID card generation and bulk ZIP export.
+3. **Reports & Exports:** Comprehensive roster filtering and export to CSV, XLS, and printable PDF.
+4. **Communications:** Notification Center for dispatching template-based emails under a 100 emails/day quota.
+5. **Access Control:** User role management (Administrator, Principal, Department Coordinator, Staff, Pending Approval) and coordinator department mapping.
 
 ### Who can perform final verification?
-Final administrative verification (`admin_verified`) is performed exclusively by System Administrators and the College Principal.
+Final administrative verification (Admin Verified) is performed exclusively by System Administrators and the College Principal.
 → See [Administrator Guide](administrator-guide.md) and [Completing Administrator Verification](completing-administrator-verification.md).
 
 ---
@@ -165,7 +165,7 @@ No. StaffBridge identity data is managed within Amroli College systems and is no
 ## 10. JyotOS Ecosystem Access
 
 ### How does StaffBridge connect to other JyotOS applications?
-StaffBridge serves as the central identity authority. Once an identity record achieves **Ready** status (`admin_verified` with Active Status `Active`), that identity is available for single sign-on across connected JyotOS applications such as EventOS and Central.
+StaffBridge serves as the central identity authority. Once an identity record achieves **Ready** status (Admin Verified with Active Status `Active`), that identity is available for single sign-on across connected JyotOS applications such as EventOS and Central.
 
 ### Will I need to register again in other JyotOS products?
 No. Connected JyotOS applications reference your authoritative StaffBridge identity record, avoiding redundant onboarding.

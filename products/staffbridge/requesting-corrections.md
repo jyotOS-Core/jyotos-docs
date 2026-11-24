@@ -4,7 +4,7 @@
 **Quick Facts**
 * **Audience:** Department Coordinators, System Administrators
 * **Applies To:** StaffBridge
-* **Resulting Status:** Needs Correction (`needs_correction`)
+* **Resulting Status:** Needs Correction
 {% endhint %}
 
 This guide explains when and how to flag field-level errors on a staff profile and how to write clear, actionable reviewer remarks.
@@ -40,20 +40,18 @@ Reviewer remarks are displayed directly to the staff member on their dashboard. 
 
 ## How to Request a Correction
 
-[SCREENSHOT TO CAPTURE: Field correction selection panel with reviewer remark entry]
-
 1. Open the staff profile sheet in the Admin Portal.
 2. Check the box next to each specific field requiring correction.
 3. Enter actionable reviewer remarks in the comment box.
 4. Click **Request Correction**.
-5. The staff profile status automatically transitions to **Needs Correction** (`needs_correction`).
+5. The staff profile status automatically transitions to **Needs Correction**.
 6. The staff member can now edit only the flagged fields and resubmit their profile.
 
 ---
 
 ## Reviewing Resubmissions
 
-* When the staff member resubmits updated information, their status changes to **Correction Submitted** (`correction_submitted`).
+* When the staff member resubmits updated information, their status changes to **Correction Submitted**.
 * Open the profile in the review queue to evaluate the updated entries alongside your original remarks.
-* If satisfied, approve the profile to **Coordinator Verified** (`coordinator_verified`).
+* If satisfied, approve the profile to **Coordinator Verified**.
 * If issues remain, you can request further corrections following the same steps.

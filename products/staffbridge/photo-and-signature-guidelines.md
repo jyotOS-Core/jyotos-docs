@@ -6,7 +6,7 @@ This guide details quality standards, upload instructions, and format requiremen
 
 ## Identification Media Section
 
-When completing onboarding at `/staff/onboarding` or updating media in response to a correction request, you will use the identification media interface:
+When completing onboarding or updating media in response to a correction request, you will use the identification media interface:
 
 ![StaffBridge mobile Photo, Signature and Consent upload section showing media file selectors and consent checkbox](../../.gitbook/assets/staffbridge/onboarding/staffbridge-staff-onboarding-mobile-v5.png)
 

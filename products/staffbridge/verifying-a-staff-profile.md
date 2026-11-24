@@ -4,8 +4,8 @@
 **Quick Facts**
 * **Audience:** Department Coordinators
 * **Applies To:** StaffBridge
-* **Target Status:** Submitted (`submitted`) or Correction Submitted (`correction_submitted`)
-* **Resulting Status:** Coordinator Verified (`coordinator_verified`)
+* **Target Status:** Submitted or Correction Submitted
+* **Resulting Status:** Coordinator Verified
 {% endhint %}
 
 This guide explains the preconditions and procedure for Department Coordinators to grant coordinator-level verification to a staff record.
@@ -30,18 +30,16 @@ Do not grant verification to an incomplete profile or a profile with pending cor
 
 ## How to Verify a Staff Profile
 
-[SCREENSHOT TO CAPTURE: Profile approval action panel showing Coordinator Verification button]
-
 1. Open the staff profile in the Admin Portal.
 2. Perform a final review of all fields and media.
 3. Click **Approve / Grant Verification**.
-4. The system records your coordinator account identifier and timestamp, and updates the profile status to **Coordinator Verified** (`coordinator_verified`).
+4. The system records your coordinator account identifier and timestamp, and updates the profile status to **Coordinator Verified**.
 
 ---
 
 ## Profile Status Outcome and Next Steps
 
-* **New Status:** **Coordinator Verified** (`coordinator_verified`).
+* **New Status:** **Coordinator Verified**.
 * **Next Lifecycle Step:** The profile advances automatically to the System Administrator queue for final administrative verification and ecosystem access enablement.
 * **Staff Member Notification:** The staff member's dashboard reflects the updated status badge.
 

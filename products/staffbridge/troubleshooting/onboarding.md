@@ -3,7 +3,7 @@
 {% hint style="info" %}
 **Quick Facts**
 * **Audience:** Staff Members Completing Onboarding
-* **Applies To:** StaffBridge Onboarding Form (`/staff/onboarding`)
+* **Applies To:** StaffBridge Onboarding Form
 * **Key Requirements:** Official email (`@amrolicollege.ac.in`), 10-digit mobile, valid address PIN code
 {% endhint %}
 

@@ -9,9 +9,7 @@ This guide explains how to view, update, and resubmit information if an administ
 If a reviewer flags an item on your profile, the status changes to **Needs Correction**. You are notified through two channels:
 
 1. **Email Notification:** An automated notification is sent to your official `@amrolicollege.ac.in` email address listing the flagged fields and reviewer comments.
-2. **Dashboard Alert:** A prominent **Pending Correction Fields** card appears when you sign in to `/staff/dashboard`.
-
-[SCREENSHOT TO CAPTURE: Pending correction fields banner and field input forms on staff dashboard]
+2. **Dashboard Alert:** A prominent **Pending Correction Fields** card appears when you sign in to your dashboard.
 
 ***
 
@@ -21,9 +19,9 @@ Follow these steps to update your flagged information:
 
 ### Step 1: Sign In to Your Dashboard
 
-1. Navigate to StaffBridge at `/login`.
+1. Navigate to the StaffBridge login page.
 2. Click **Sign in with Google** and select your official `@amrolicollege.ac.in` institutional account.
-3. You will be redirected to your personal dashboard at `/staff/dashboard`.
+3. You will be redirected to your personal dashboard.
 
 ### Step 2: Locate the Pending Correction Section
 

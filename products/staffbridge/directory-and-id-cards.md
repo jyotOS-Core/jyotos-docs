@@ -4,7 +4,6 @@
 **Quick Facts**
 * **Audience:** System Administrators, College Principal
 * **Applies To:** StaffBridge
-* **Route:** `/admin/directory`
 * **Features:** Visual staff gallery, campus grouping, modal profile viewer, ID card export
 {% endhint %}
 
@@ -14,9 +13,7 @@ The **Directory & ID Cards** page combines the institutional staff directory wit
 
 ## Overview of Directory & ID Cards
 
-Located at `/admin/directory`, this section provides an intuitive, visual representation of all registered staff across the institution.
-
-[SCREENSHOT TO CAPTURE: Directory and ID cards gallery view with campus tabs]
+This section provides an intuitive, visual representation of all registered staff across the institution.
 
 ---
 

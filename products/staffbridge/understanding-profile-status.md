@@ -18,8 +18,6 @@ Needs Correction ◄─────┘
 Correction Submitted
 ```
 
-[SCREENSHOT TO CAPTURE: Staff dashboard profile status card showing status badge, reference ID, and review timestamps]
-
 ***
 
 ## Status Reference Guide
@@ -42,7 +40,7 @@ StaffBridge tracks your profile using seven distinct statuses:
 
 * **Meaning:** An administrator or coordinator has reviewed your submission and flagged one or more specific fields or media items that require correction, re-upload, or clarification.
 * **Current Review Level:** Action required from staff member.
-* **Staff Action Required:** Sign in to `/staff/dashboard` using your official Google `@amrolicollege.ac.in` account. Open the **Pending Correction Fields** section, read the reviewer's instructions, enter the updated details, and click **Submit Update**.
+* **Staff Action Required:** Sign in to your dashboard using your official Google `@amrolicollege.ac.in` account. Open the **Pending Correction Fields** section, read the reviewer's instructions, enter the updated details, and click **Submit Update**.
 
 ### 4. Correction Submitted
 
@@ -70,15 +68,15 @@ StaffBridge tracks your profile using seven distinct statuses:
 
 ## Ecosystem Eligibility by Status
 
-| Status | Display Label | Review State | JyotOS Ecosystem Access |
+| Status | Meaning | Review State | JyotOS Ecosystem Access |
 | :--- | :--- | :--- | :---: |
-| `submitted` | **Submitted** | Initial queue | Ineligible |
-| `coordinator_verified` | **Coordinator Verified** | Department approved | Ineligible |
-| `needs_correction` | **Needs Correction** | Action required from staff | Ineligible |
-| `correction_submitted` | **Correction Submitted** | Re-evaluation queue | Ineligible |
-| `admin_verified` | **Admin Verified** | Final approval complete | **Eligible ("Ready")** |
-| `duplicate` | **Duplicate** | Duplicate record | Ineligible |
-| `rejected` | **Rejected** | Rejected by admin | Ineligible |
+| **Submitted** | Registration received | Initial queue | Ineligible |
+| **Coordinator Verified** | Department verification granted | Department approved | Ineligible |
+| **Needs Correction** | Flagged for update | Action required from staff | Ineligible |
+| **Correction Submitted** | Resubmitted by staff | Re-evaluation queue | Ineligible |
+| **Admin Verified** | Final institutional approval | Final approval complete | **Eligible ("Ready")** |
+| **Duplicate** | Duplicate submission | Duplicate record | Ineligible |
+| **Rejected** | Submission rejected | Rejected by admin | Ineligible |
 
 ***
 

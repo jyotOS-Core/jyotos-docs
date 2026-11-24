@@ -4,7 +4,6 @@
 **Quick Facts**
 * **Audience:** System Administrators, College Principal, Leadership
 * **Applies To:** StaffBridge
-* **Route:** `/admin/reports`
 * **Export Formats:** CSV, XLS, PDF / Print roster
 {% endhint %}
 
@@ -15,9 +14,7 @@ The **Reports & Exports** section provides tools for searching, filtering, and e
 ## Accessing Reports & Exports
 
 1. Sign in with an administrator account.
-2. Select **Reports & Exports** from the administrator navigation menu, or navigate directly to `/admin/reports`.
-
-[SCREENSHOT TO CAPTURE: Reports and exports filter panel and download controls]
+2. Select **Reports & Exports** from the administrator navigation menu.
 
 ---
 
@@ -28,7 +25,7 @@ Use the filter controls at the top of the roster to narrow down staff records:
 * **Campus Filter:** View records for **Amroli Campus**, **Chaprabhatha Campus**, or all campuses combined.
 * **Department Filter:** Filter by specific academic or administrative departments.
 * **Staff Category:** Select Teaching Staff or Non-Teaching Staff.
-* **Profile Status:** Filter by lifecycle state (`submitted`, `coordinator_verified`, `needs_correction`, `correction_submitted`, `admin_verified`).
+* **Profile Status:** Filter by lifecycle state (Submitted, Coordinator Verified, Needs Correction, Correction Submitted, or Admin Verified).
 * **Active Status:** Filter by `Active` or `Inactive` personnel.
 * **Search Field:** Search instantly by staff name, reference ID (`STAFF-2026-XXXX`), official email address, or mobile number.
 
@@ -50,6 +47,6 @@ StaffBridge supports three export methods:
 4. The file downloads directly to your local device.
 
 {% hint style="warning" %}
-**Data Protection Policy**
-Exported files contain official staff contact and employment details. Store and handle exported files securely in compliance with institutional data protection policies.
+**Handling Exported Files**
+Exported files contain staff details. Keep them private and share them only with people who need them.
 {% endhint %}

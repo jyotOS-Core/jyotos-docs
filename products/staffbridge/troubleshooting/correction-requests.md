@@ -4,7 +4,7 @@
 **Quick Facts**
 * **Audience:** Staff Members Responding to Correction Flags
 * **Applies To:** StaffBridge Correction Workflows
-* **Target Status:** Correction Submitted (`correction_submitted`)
+* **Target Status:** Correction Submitted
 {% endhint %}
 
 This guide helps resolve issues when responding to field-level correction requests from department coordinators or system administrators.
@@ -31,4 +31,4 @@ Read Reviewer Remarks ──► Update Flagged Fields on Dashboard ──► Sub
 1. Review each flagged item and read the associated remark carefully.
 2. Make the requested modifications only in the highlighted fields.
 3. Click **Submit Update**.
-4. Your profile status changes to **Correction Submitted** (`correction_submitted`) and returns to the review queue.
+4. Your profile status changes to **Correction Submitted** and returns to the review queue.

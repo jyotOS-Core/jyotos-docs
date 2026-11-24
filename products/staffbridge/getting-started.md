@@ -19,7 +19,7 @@ Before beginning your registration, make sure you have the following details and
 
 ## Onboarding Registration Interface
 
-The onboarding registration form at `/staff/onboarding` is publicly accessible and does not require prior login. You only need your official institutional email address to complete registration.
+The staff onboarding registration form is publicly accessible and does not require prior login. You only need your official institutional email address to complete registration.
 
 ![StaffBridge mobile onboarding registration form showing header and Personal Information section](../../.gitbook/assets/staffbridge/onboarding/staffbridge-staff-onboarding-mobile-v1.png)
 
@@ -31,7 +31,7 @@ The onboarding registration form at `/staff/onboarding` is publicly accessible a
 1. Personal Information ──► 2. Professional Info ──► 3. Campus & Department ──► 4. Photo & Signature ──► 5. Review ──► 6. Receipt
 ```
 
-1. **Step 1: Open Onboarding Form:** Navigate to `/staff/onboarding` on your desktop or mobile web browser.
+1. **Step 1: Open Onboarding Form:** Open the staff onboarding form on your desktop or mobile web browser.
 2. **Step 2: Enter Personal Details:** Fill in your full name, date of birth, mobile numbers, official institutional email, and emergency contacts.
 3. **Step 3: Enter Professional Information:** Select your staff category and designation, enter your date of joining, and select all applicable qualifications.
 4. **Step 4: Map Campus and Departments:** Choose your primary campus (**Amroli Campus** or **Chaprabhatha Campus**), select your primary department, and check any additional department appointments.

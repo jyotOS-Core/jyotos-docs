@@ -4,8 +4,8 @@
 **Quick Facts**
 * **Audience:** System Administrators, College Principal
 * **Applies To:** StaffBridge
-* **Target Status:** Coordinator Verified (`coordinator_verified`)
-* **Resulting Status:** Admin Verified (`admin_verified` / "Ready")
+* **Target Status:** Coordinator Verified
+* **Resulting Status:** Admin Verified ("Ready")
 {% endhint %}
 
 This guide documents the final administrative verification process required to approve staff profiles and enable access to connected JyotOS applications.
@@ -16,7 +16,7 @@ This guide documents the final administrative verification process required to a
 
 Before granting administrator verification, ensure the following criteria are met:
 
-* [ ] **Coordinator Approval:** Profile status is **Coordinator Verified** (`coordinator_verified`).
+* [ ] **Coordinator Approval:** Profile status is **Coordinator Verified**.
 * [ ] **Institutional Email:** Official email address ending with `@amrolicollege.ac.in` is confirmed.
 * [ ] **Employment Details:** Primary campus, department, designation, and category align with official employment orders.
 * [ ] **Active Status:** Account is set to **Active**.
@@ -25,16 +25,14 @@ Before granting administrator verification, ensure the following criteria are me
 
 ## Step-by-Step Approval Procedure
 
-[SCREENSHOT TO CAPTURE: Administrator verification action panel with Admin Verify button and Active Status toggle]
-
 1. Sign in to StaffBridge using your administrator Google account (`@amrolicollege.ac.in`).
-2. Navigate to **Dashboard** (`/admin`) or **Reports & Exports** (`/admin/reports`).
+2. Navigate to **Dashboard** or **Reports & Exports** from the navigation menu.
 3. Filter the roster by profile status **Coordinator Verified**.
 4. Click on a staff member's record to open their complete review sheet.
 5. Review the details, uploaded passport photo, and signature.
 6. Verify that the **Active Status** toggle is set to **Active**.
 7. Click **Admin Verify / Final Approval**.
-8. The system updates the profile status to **Admin Verified** (`admin_verified`), records your administrator identity and timestamp, and marks the profile as **Ready**.
+8. The system updates the profile status to **Admin Verified**, records your administrator identity and timestamp, and marks the profile as **Ready**.
 
 ---
 
@@ -42,7 +40,7 @@ Before granting administrator verification, ensure the following criteria are me
 
 StaffBridge maintains two distinct status properties for every staff record:
 
-* **Profile Status:** Tracks verification lifecycle progress (`submitted` → `coordinator_verified` → `admin_verified`).
+* **Profile Status:** Tracks verification lifecycle progress (Submitted → Coordinator Verified → Admin Verified).
 * **Active Status:** Governs whether the staff member is currently an active employee (`Active` / `Inactive`).
 
 {% hint style="info" %}

@@ -4,8 +4,7 @@
 **Quick Facts**
 * **Audience:** System Administrators
 * **Applies To:** StaffBridge
-* **Route:** `/admin/access-control`
-* **Managed Entity:** User profiles table (`user_profiles`)
+* **Managed Entity:** User accounts and roles
 {% endhint %}
 
 The **Access Control** section gives system administrators centralized governance over user roles, account approval statuses, and department coordinator assignments.
@@ -14,9 +13,7 @@ The **Access Control** section gives system administrators centralized governanc
 
 ## Accessing Access Control
 
-Select **Access Control** from the administrator navigation menu, or navigate directly to `/admin/access-control`.
-
-[SCREENSHOT TO CAPTURE: Access control user management table with role assignment dropdown]
+Select **Access Control** from the administrator navigation menu.
 
 ---
 
@@ -26,19 +23,19 @@ StaffBridge defines five primary user roles within the system:
 
 | Role | Scope | Permissions |
 | :--- | :--- | :--- |
-| `admin` | College-wide | Full access to all 5 admin sections, verification, settings, exports, and access control. |
-| `principal` | College-wide | Executive review, verification approval, reports, and directory oversight. |
-| `coordinator` | Department-level | Access to assigned department submissions, verification up to `coordinator_verified`, and correction requests. |
-| `staff` | Personal | Access to personal onboarding form, dashboard, profile updates, and digital ID card. |
-| `pending` | None | Newly registered user awaiting role assignment and account approval. |
+| Administrator | College-wide | Full access to all 5 admin sections, verification, settings, exports, and access control. |
+| Principal | College-wide | Executive review, verification approval, reports, and directory oversight. |
+| Department Coordinator | Department-level | Access to assigned department submissions, verification up to Coordinator Verified, and correction requests. |
+| Staff | Personal | Access to personal onboarding form, dashboard, profile updates, and digital ID card. |
+| Pending Approval | None | Newly registered user awaiting role assignment and account approval. |
 
 ---
 
 ## Managing User Roles
 
-1. In `/admin/access-control`, locate the user record using the search bar or role filter.
+1. In Access Control, locate the user record using the search bar or role filter.
 2. Click the **Role** dropdown next to the user's name.
-3. Select the appropriate role (`admin`, `principal`, `coordinator`, or `staff`).
+3. Select the appropriate role (Administrator, Principal, Department Coordinator, or Staff).
 4. Confirm the role change when prompted. The updated permissions take effect immediately on the user's next request.
 
 ---
@@ -59,6 +56,6 @@ Coordinators require explicit mapping to one or more academic or administrative 
 
 Administrators can control whether a user account has active access to StaffBridge:
 
-* **Approve User:** Moves an account from `pending` status to an approved role, granting login access.
+* **Approve User:** Moves an account from pending status to an approved role, granting login access.
 * **Suspend Access:** Temporarily disables access for an account without deleting profile or history records.
 * **Audit Trail:** All role modifications and status changes are recorded with administrator timestamps.

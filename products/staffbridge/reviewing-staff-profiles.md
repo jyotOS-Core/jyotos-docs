@@ -4,7 +4,7 @@
 **Quick Facts**
 * **Audience:** Department Coordinators
 * **Applies To:** StaffBridge
-* **Review Target:** Profiles with status `submitted` or `correction_submitted`
+* **Review Target:** Profiles with status Submitted or Correction Submitted
 {% endhint %}
 
 This guide provides a step-by-step walkthrough for Department Coordinators to open their department review queue, inspect pending staff records, and evaluate submitted details.
@@ -16,8 +16,6 @@ This guide provides a step-by-step walkthrough for Department Coordinators to op
 1. Open your browser and navigate to the StaffBridge login page.
 2. Sign in using your official Google `@amrolicollege.ac.in` account.
 3. Access the **Admin Portal** from the navigation menu. Your view automatically filters to show staff records within your assigned department.
-
-[SCREENSHOT TO CAPTURE: Department coordinator review queue with assigned department filter]
 
 ---
 
@@ -58,8 +56,6 @@ Cross-check selected qualifications (e.g., M.A., M.Com., M.Sc., Ph.D., NET, GSET
 Inspect the uploaded media items:
 * **Passport Photo:** Clear, front-facing, centered, with adequate lighting and a plain, light background.
 * **Signature Image:** Clear, continuous, dark ink on a plain white surface or drawn legibly on the digital signature pad.
-
-[SCREENSHOT TO CAPTURE: Staff profile media inspection cards showing photo and signature]
 
 ### Step 7: Decide on the Record
 

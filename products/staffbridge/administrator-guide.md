@@ -18,13 +18,11 @@ System Administrators and the College Principal maintain college-wide authority 
 
 The StaffBridge administrator portal is organized into exactly five dedicated sections:
 
-1. **Dashboard (`/admin`):** Overview metrics (counts for submitted, coordinator verified, admin verified, needs correction, and total staff), urgent verification actions, and recent activity streams.
-2. **Directory & ID Cards (`/admin/directory`):** Visual gallery of staff profile cards grouped by campus, search and filter tools, individual profile modal previews, and bulk ID card export options.
-3. **Reports & Exports (`/admin/reports`):** Comprehensive filterable staff roster with export capabilities to CSV, XLS, and printable PDF formats.
-4. **Communications (`/admin/notification-center`):** Notification Center for dispatching template-based email notifications to staff members within daily delivery limits.
-5. **Access Control (`/admin/access-control`):** User profile role management, department coordinator assignments, and system permission governance.
-
-[SCREENSHOT TO CAPTURE: Administrator navigation sidebar showing the five core sections]
+1. **Dashboard:** Overview metrics (counts for submitted, coordinator verified, admin verified, needs correction, and total staff), urgent verification actions, and recent activity streams.
+2. **Directory & ID Cards:** Visual gallery of staff profile cards grouped by campus, search and filter tools, individual profile modal previews, and bulk ID card export options.
+3. **Reports & Exports:** Comprehensive filterable staff roster with export capabilities to CSV, XLS, and printable PDF formats.
+4. **Communications:** Notification Center for dispatching template-based email notifications to staff members within daily delivery limits.
+5. **Access Control:** User profile role management, department coordinator assignments, and system permission governance.
 
 ---
 
@@ -33,7 +31,7 @@ The StaffBridge administrator portal is organized into exactly five dedicated se
 | Area | Department Coordinator | System Administrator / Principal |
 | :--- | :--- | :--- |
 | **Review Scope** | Assigned Department(s) Only | College-wide (All Campuses and Units) |
-| **Verification Authority** | Up to Coordinator Verified (`coordinator_verified`) | Final Admin Verified (`admin_verified`) |
+| **Verification Authority** | Up to Coordinator Verified | Final Admin Verified |
 | **Active Status Control** | None | Full Control (Active / Inactive) |
 | **Reports & Exports** | Department-level view | College-wide exports (CSV, XLS, PDF) |
 | **Directory & ID Cards** | Read-only department list | Full directory and bulk ID card export |

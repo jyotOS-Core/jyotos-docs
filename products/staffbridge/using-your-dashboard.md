@@ -6,11 +6,9 @@ This guide explains how to navigate your StaffBridge personal dashboard, view yo
 
 ## Accessing Your Dashboard
 
-1. Visit StaffBridge at `/login`.
+1. Open StaffBridge in your web browser.
 2. Click **Sign in with Google** and choose your official college account ending in `@amrolicollege.ac.in`.
-3. Upon authentication, you are directed to your personal dashboard at `/staff/dashboard`.
-
-[SCREENSHOT TO CAPTURE: Staff self-service dashboard with profile overview card, digital ID card preview, and push notification controls]
+3. Upon authentication, you are directed to your personal staff dashboard.
 
 ***
 
@@ -21,7 +19,7 @@ This guide explains how to navigate your StaffBridge personal dashboard, view yo
 The top card summarizes your current employment identity:
 
 * **Staff Reference ID:** Your permanent institutional identifier (e.g. `STAFF-2026-0086`).
-* **Profile Status Badge:** Color-coded status indicator showing your review stage (`Submitted`, `Coordinator Verified`, `Needs Correction`, `Correction Submitted`, or `Admin Verified`).
+* **Profile Status Badge:** Color-coded status indicator showing your review stage (Submitted, Coordinator Verified, Needs Correction, Correction Submitted, or Admin Verified).
 * **Primary Campus & Department:** Your appointed campus location (Amroli Campus or Chaprabhatha Campus) and primary department.
 * **Designation & Category:** Your official appointment title and employment classification.
 
@@ -46,7 +44,7 @@ StaffBridge supports browser-based Web Push alerts:
 
 ### 5. Staff Directory Navigation
 
-The navigation bar on your dashboard includes a link to the **Staff Directory** (`/staff/directory`). The directory allows you to browse colleagues across academic departments and campuses with privacy-protected contact information.
+The navigation bar on your dashboard includes a link to the **Staff Directory**. The directory allows you to browse colleagues across academic departments and campuses with official contact information.
 
 ***
 

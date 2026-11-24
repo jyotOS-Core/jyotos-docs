@@ -53,7 +53,7 @@ The JyotOS ecosystem operates across three interconnected layers:
 * **Sign in Once:** Use your official college Google account (`@amrolicollege.ac.in`) across all supported JyotOS applications.
 * **Independent Authorization:** Gaining access in JyotOS Central lets you launch an application, but administrative roles inside that application (such as Coordinator or Evaluator) are managed within that specific tool.
 * **Progressive Rollout:** Institutional applications are rolled out in structured phases. Core applications are available today, with additional tools joining the ecosystem progressively.
-* **Data Privacy:** Applications exchange only necessary, verified identity claims. Personal contact numbers and sensitive records remain protected.
+* **Data Privacy:** Applications exchange only necessary, verified identity claims. Personal contact numbers and sensitive records remain private.
 
 ***
 

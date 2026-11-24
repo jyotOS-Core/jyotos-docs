@@ -4,7 +4,6 @@
 **Quick Facts**
 * **Audience:** System Administrators
 * **Applies To:** StaffBridge
-* **Route:** `/admin/notification-center`
 * **Provider:** Resend email service
 * **Daily Limit:** 100 emails per day safety quota
 {% endhint %}
@@ -15,9 +14,7 @@ The **Communications** section (Notification Center) provides administrators wit
 
 ## Accessing the Notification Center
 
-Navigate to `/admin/notification-center` from the administrator menu under **Communications**.
-
-[SCREENSHOT TO CAPTURE: Notification center campaign composer and daily quota meter]
+Select **Communications** from the administrator menu to open the Notification Center.
 
 ---
 
@@ -49,7 +46,7 @@ StaffBridge includes pre-configured transactional email templates:
 
 ## Sending a Notification Campaign
 
-1. Open `/admin/notification-center`.
+1. Open the **Communications** section.
 2. Select the desired email template from the template selector.
 3. Choose the recipient group by applying filters (e.g. by status, department, or campus).
 4. Review the recipient list and verify that the count fits within your remaining daily quota.

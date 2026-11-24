@@ -3,7 +3,7 @@
 {% hint style="info" %}
 **Quick Facts**
 * **Audience:** Staff Members Viewing Dashboard & Digital ID Preview
-* **Applies To:** StaffBridge Self-Service Dashboard (`/staff/dashboard`)
+* **Applies To:** StaffBridge Self-Service Dashboard
 * **Features:** ID card preview, profile details, push notifications
 {% endhint %}
 
@@ -19,6 +19,4 @@ This guide resolves issues with dashboard loading, digital ID card preview rende
 | **ID Card Preview Blank** | Photo or signature media upload incomplete | Check your profile submission to confirm passport photo and signature are uploaded. |
 | **Dashboard Shows Incorrect Department** | Selected wrong department during onboarding | Contact your System Administrator to update your primary department assignment. |
 | **Push Notifications Not Received** | Browser notification permission blocked or dismissed | Click **Enable Push Notifications** on your dashboard and choose **Allow** in the browser permission prompt. |
-| **Unable to Edit Profile Details** | Profile is locked after initial submission | Once submitted, profile fields are read-only to protect verification integrity. Edits are only permitted when a reviewer flags fields for correction. |
-
-[SCREENSHOT TO CAPTURE: Staff dashboard ID card preview card with push notification toggle]
+| **Unable to Edit Profile Details** | Profile is locked after initial submission | Once submitted, profile fields are read-only to preserve verification accuracy. Edits are only permitted when a reviewer flags fields for correction. |

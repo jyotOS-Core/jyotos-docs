@@ -21,7 +21,7 @@ As a Department Coordinator, your primary responsibilities include:
 * **Reviewing Submissions:** Evaluating incoming registrations for faculty and staff assigned to your department.
 * **Verifying Details:** Confirming staff category, designation, date of joining, and academic qualifications against college appointment records.
 * **Requesting Corrections:** Flagging inaccurate or incomplete fields and providing clear, actionable remarks to staff members.
-* **Granting Department Verification:** Approving verified records to advance their status to **Coordinator Verified** (`coordinator_verified`).
+* **Granting Department Verification:** Approving verified records to advance their status to **Coordinator Verified**.
 
 ---
 

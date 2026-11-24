@@ -21,8 +21,6 @@ This guide helps resolve technical difficulties encountered while capturing pass
 | **Uploaded Signature Rejected** | Blurry image, low contrast, or lined paper | Sign with dark blue or black ink on unlined white paper in bright lighting, or draw directly on the canvas. |
 | **Crop Tool Fails to Load** | Browser WebGL or hardware acceleration disabled | Check browser settings or upload a pre-cropped square passport photo directly. |
 
-[SCREENSHOT TO CAPTURE: Browser camera permission settings bar]
-
 ---
 
 ## Media Best Practices

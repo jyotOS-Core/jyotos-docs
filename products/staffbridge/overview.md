@@ -30,7 +30,7 @@ JyotOS Central SSO & Connected Campus Applications (EventOS, ClassPulse Pro, etc
 
 StaffBridge supports six core institutional functions:
 
-* **Staff Onboarding:** Gathers comprehensive personal, academic, professional, and emergency contact details through a structured onboarding form at `/staff/onboarding`.
+* **Staff Onboarding:** Gathers comprehensive personal, academic, professional, and emergency contact details through a structured onboarding form.
 * **Profile Management:** Maintains staff credentials, appointment categories, teaching/administrative designations, and identification media.
 * **Two-Tier Verification:** Enables Department Coordinators and System Administrators to review and verify submitted data against official appointment letters.
 * **Structured Corrections:** Provides a field-level correction workflow where reviewers can flag specific data points or media files with actionable comments.

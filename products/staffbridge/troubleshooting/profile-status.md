@@ -4,7 +4,7 @@
 **Quick Facts**
 * **Audience:** Staff Members Tracking Onboarding Status
 * **Applies To:** StaffBridge Profile Tracking
-* **Ready State:** Admin Verified (`admin_verified`) with Active Status set to Active
+* **Ready State:** Admin Verified with Active Status set to Active
 {% endhint %}
 
 This guide explains common questions regarding profile review timelines, status transitions, and ecosystem readiness.
@@ -26,7 +26,7 @@ This guide explains common questions regarding profile review timelines, status 
 
 Remember the distinction between the two status properties:
 
-* **Profile Status:** Measures verification lifecycle progress (`submitted` → `coordinator_verified` → `admin_verified`).
+* **Profile Status:** Measures verification lifecycle progress (Submitted → Coordinator Verified → Admin Verified).
 * **Active Status:** Governs whether your employee account is operational (`Active` / `Inactive`).
 
 Both **Admin Verified** profile status and **Active** account status are required for an identity record to be **Ready** for single sign-on across JyotOS applications.

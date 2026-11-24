@@ -5,7 +5,7 @@
 
 * **Estimated Reading Time:** 6 minutes
 * **Target Audience:** Platform Owners, System Administrators, Application Owners, and Auditors
-* **Applies To:** JyotOS Central Administration Console (`/admin`)
+* **Applies To:** JyotOS Central Administration Console
 * **Last Updated:** 24 November 2026
 {% endhint %}
 
@@ -26,7 +26,7 @@ Central defines six platform roles with strictly separated capabilities:
 | **System Administrator** | Systems engineers and IT operations staff | Register applications, configure audience rules, grant/revoke user access, and inspect monitoring. | Cannot assign or modify platform roles (Platform Owner only). |
 | **Application Owner** | Functional leads for specific ecosystem applications | Configure details and launch URLs for assigned applications. | Cannot grant access to other applications, view audit logs, or edit platform settings. |
 | **Operations Viewer** | Helpdesk leads and operational observers | Real-time visibility into application health checks and incident logs. | Strictly read-only; cannot view or modify access grants, roles, or audit logs. |
-| **Auditor** | Institutional IQAC coordinators and compliance officers | Inspect the tamper-evident audit trail and review historical access changes. | Strictly read-only; cannot modify applications, grants, or roles. |
+| **Auditor** | Institutional IQAC coordinators and internal auditors | Inspect the platform audit log and review historical access changes. | Strictly read-only; cannot modify applications, grants, or roles. |
 | **Staff** | Default role for all authenticated institutional personnel | Launch granted applications and submit access requests. | Cannot access the administration console or view other users' records. |
 
 ![Platform Role Popover](../../.gitbook/assets/central/central-admin-role-popover.png)
