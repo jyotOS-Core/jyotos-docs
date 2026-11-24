@@ -56,6 +56,17 @@
 * [Troubleshooting](products/eventos/troubleshooting.md)
 * [Frequently asked questions](products/eventos/faq.md)
 
+### ClassPulse Pro
+* [Overview](products/classpulse-pro/overview.md)
+* [Getting started](products/classpulse-pro/getting-started.md)
+* [My teaching portal](products/classpulse-pro/teaching-portal.md)
+* [HOD department center](products/classpulse-pro/hod-department-center.md)
+* [Principal executive view](products/classpulse-pro/principal-cockpit.md)
+* [Faculty lecture reconciler](products/classpulse-pro/faculty-reconciler.md)
+* [Subject division matrix](products/classpulse-pro/subject-parity-matrix.md)
+* [Troubleshooting](products/classpulse-pro/troubleshooting.md)
+* [Frequently asked questions](products/classpulse-pro/faq.md)
+
 ## Reference
 * [About JyotOS](about-jyotos.md)
 * [Roles and responsibilities](roles-and-responsibilities.md)
