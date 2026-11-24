@@ -1,0 +1,13 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+site:
+  title: JyotOS Help Center
+  structure:
+    - type: space
+      key: space-help-center
+      title: JyotOS Help Center
+      path: help-center
+      default: true
+      content:
+        directory: ./
+        language: en
