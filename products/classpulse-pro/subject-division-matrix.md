@@ -34,7 +34,7 @@ ClassPulse Pro automatically resolves these entries to their canonical course id
 
 ---
 
-## Parity Indicators and Metrics
+## Division Alignment Indicators and Metrics
 
 For every multi-division subject, the matrix calculates two core indicators:
 
@@ -46,10 +46,10 @@ $$\text{Velocity Spread} = \text{Maximum Division Lectures} - \text{Minimum Divi
 * **Spread of 0 to 2 Lectures:** Indicates balanced, synchronized pacing between cohorts.
 * **Spread of 3 or More Lectures:** Triggers a **Spread Alert**, indicating that one division is lagging behind its peers.
 
-### 2. Parity Score
-The parity score expresses the overall delivery balance across all divisions as a percentage:
-* A high parity score (e.g., 85% to 100%) indicates well-synchronized progress.
-* A low parity score indicates substantial variance in classroom delivery.
+### 2. Delivery Balance Score
+The balance score (displayed on screen as the Parity percentage) expresses the overall delivery balance across all divisions as a percentage:
+* A high balance score (e.g., 85% to 100%) indicates well-synchronized progress.
+* A low balance score indicates substantial variance in classroom delivery.
 
 ---
 
@@ -58,12 +58,12 @@ The parity score expresses the overall delivery balance across all divisions as 
 ### Step 1: Filtering by Department
 1. Open the **Subject Division Matrix** from the navigation menu.
 2. Select your academic department from the department filter dropdown.
-3. Review the summary metrics showing total multi-division courses, average parity rate, and the count of courses with active spread alerts.
+3. Review the summary metrics showing total multi-division courses, average delivery balance rate, and the count of courses with active spread alerts.
 
 ### Step 2: Reviewing Course Cards
 Each course card presents:
 * **Subject Title & Code:** Standard academic paper name and curriculum code.
-* **Parity Score & Spread:** Header badge indicating overall synchronization and numerical spread (e.g., `Parity: 88% (±2 lecs)`).
+* **Delivery Balance & Spread:** Header badge indicating overall synchronization and numerical spread (e.g., on-screen badge `Parity: 88% (±2 lecs)`).
 * **Division Breakdown:** Shows each division, its assigned instructor, and total conducted sessions to date.
 
 ### Step 3: Comparative Division Review

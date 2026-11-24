@@ -8,7 +8,7 @@
 * **Availability Note:** ClassPulse Pro is being introduced to staff in stages.
 {% endhint %}
 
-ClassPulse Pro is the academic workload reconciliation, timetable delivery tracking, and cross-division curriculum parity platform for Amroli College. It connects master timetables with daily classroom teaching records, providing clear operational visibility across academic departments and campus locations.
+ClassPulse Pro is the academic workload reconciliation, timetable delivery tracking, and cross-division curriculum delivery balance platform for Amroli College. It connects master timetables with daily classroom teaching records, providing clear operational visibility across academic departments and campus locations.
 
 ---
 
@@ -20,8 +20,8 @@ ClassPulse Pro is being introduced to staff in stages. Initial access is availab
 
 | Status | Features Available |
 | :--- | :--- |
-| **What works today** | • Password sign-in for pilot staff with college email<br/>• Faculty teaching diary and session logging<br/>• Department coordinator faculty roster and delivery tracking<br/>• Principal executive delivery overview and 85% benchmark tracking<br/>• Faculty lecture reconciler and workload variance tracking<br/>• Cross-division subject delivery and parity matrix |
-| **Coming soon** | • Single sign-on with JyotOS via StaffBridge launcher<br/>• Automated syllabus completion notifications |
+| **What works today** | • Password sign-in for pilot staff with college email<br/>• Faculty teaching diary and session logging<br/>• Department coordinator faculty roster and delivery tracking<br/>• Principal executive delivery overview and 85% benchmark tracking<br/>• Faculty lecture reconciler and workload variance tracking<br/>• Cross-division subject delivery matrix |
+| **Coming soon** | Single sign-on with JyotOS via StaffBridge launcher |
 
 ---
 
@@ -58,7 +58,7 @@ ClassPulse Pro organizes operational responsibilities across four primary roles:
 | :--- | :--- | :--- |
 | **Teaching Faculty** | Personal | Log daily conducted sessions, record topics covered, and view personal delivery rates. |
 | **Department Coordinator (HOD)** | Department | Oversee departmental faculty rosters, track weekly loads, and review faculty lecture variances. |
-| **College Principal** | College-wide | Monitor institutional delivery benchmarks, review cross-department performance, and review division parity. |
+| **College Principal** | College-wide | Monitor institutional delivery benchmarks, review cross-department performance, and review division delivery balance. |
 | **System Administrator** | College-wide | Manage staff user access, upload master timetable files, and configure academic term dates. |
 
 ---
@@ -85,8 +85,8 @@ Explore the role-based guides and reference pages to learn more:
 * [Getting Started](getting-started.md) — First-time orientation, layout navigation, and date window filters.
 * [My Teaching Portal](teaching-portal.md) — Guide for teaching faculty on logging lectures and reviewing diaries.
 * [HOD Department Center](hod-department-center.md) — Guide for department coordinators on roster monitoring and delivery rates.
-* [Principal Executive View](principal-cockpit.md) — Guide for institutional leadership on benchmarks and velocity tracking.
-* [Faculty Lecture Reconciler](faculty-reconciler.md) — Detailed reference on expected hours, variances, and status classifications.
-* [Subject Division Matrix](subject-parity-matrix.md) — Reference on cross-division pacing and parity spread indicators.
+* [Principal Executive View](principal-executive-view.md) — Guide for institutional leadership on benchmarks and velocity tracking.
+* [Faculty Lecture Reconciler](faculty-lecture-reconciler.md) — Detailed reference on expected hours, variances, and status classifications.
+* [Subject Division Matrix](subject-division-matrix.md) — Reference on cross-division pacing and division spread indicators.
 * [Troubleshooting](troubleshooting.md) — Solutions to common login, timetable link, and sync questions.
 * [Frequently Asked Questions](faq.md) — Quick answers to common questions about calculations, targets, and exports.

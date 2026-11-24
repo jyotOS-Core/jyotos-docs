@@ -4,7 +4,7 @@
 **Quick Facts**
 * **Audience:** All ClassPulse Pro users
 * **Applies To:** ClassPulse Pro
-* **Categories:** General, Delivery Benchmarks, Academic Calendar, Teaching Diaries, Parity, Data Exports
+* **Categories:** General, Delivery Benchmarks, Academic Calendar, Teaching Diaries, Division Alignment, Data Exports
 {% endhint %}
 
 Find direct answers to frequently asked questions about ClassPulse Pro features, delivery targets, working day calculations, and operational workflows.
@@ -14,7 +14,7 @@ Find direct answers to frequently asked questions about ClassPulse Pro features,
 ## 1. General and Access
 
 ### What is ClassPulse Pro?
-ClassPulse Pro is the academic workload reconciliation, timetable delivery tracking, and cross-division curriculum parity platform for Amroli College across its Amroli and Chaprabhatha campuses.
+ClassPulse Pro is the academic workload reconciliation, timetable delivery tracking, and cross-division curriculum delivery balance platform for Amroli College across its Amroli and Chaprabhatha campuses.
 
 ### Who can access ClassPulse Pro?
 ClassPulse Pro is currently available to designated pilot teaching faculty, Department Coordinators, and institutional leadership. Access is being introduced progressively in stages.
@@ -68,7 +68,7 @@ If your profile displays an unlinked timetable notice, contact your Department C
 
 ---
 
-## 5. Cross-Division Pacing and Parity
+## 5. Cross-Division Pacing and Division Alignment
 
 ### What causes pacing gaps between parallel divisions?
 Pacing gaps commonly arise when:

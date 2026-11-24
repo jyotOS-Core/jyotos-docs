@@ -61,9 +61,9 @@
 * [Getting started](products/classpulse-pro/getting-started.md)
 * [My teaching portal](products/classpulse-pro/teaching-portal.md)
 * [HOD department center](products/classpulse-pro/hod-department-center.md)
-* [Principal executive view](products/classpulse-pro/principal-cockpit.md)
-* [Faculty lecture reconciler](products/classpulse-pro/faculty-reconciler.md)
-* [Subject division matrix](products/classpulse-pro/subject-parity-matrix.md)
+* [Principal executive view](products/classpulse-pro/principal-executive-view.md)
+* [Faculty lecture reconciler](products/classpulse-pro/faculty-lecture-reconciler.md)
+* [Subject division matrix](products/classpulse-pro/subject-division-matrix.md)
 * [Troubleshooting](products/classpulse-pro/troubleshooting.md)
 * [Frequently asked questions](products/classpulse-pro/faq.md)
 

@@ -82,4 +82,4 @@ What you see in ClassPulse Pro depends on your assigned institutional role:
 
 * **Teaching Faculty:** Opens directly to **My Teaching Portal**, displaying your personal timetable hours, logged sessions, and teacher's diary.
 * **Department Coordinators:** Opens with departmental access, allowing you to monitor faculty rosters and delivery benchmarks for your assigned department.
-* **Principal & Administrators:** Provides full college-wide access, including cross-department comparisons, division parity analysis, and executive delivery charts.
+* **Principal & Administrators:** Provides full college-wide access, including cross-department comparisons, division delivery balance analysis, and executive delivery charts.
