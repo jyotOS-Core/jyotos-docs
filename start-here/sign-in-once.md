@@ -40,8 +40,8 @@ Open your web browser and navigate to **JyotOS Central** at [https://jyotos.verc
 
 On the login page, click **Sign in with College Account** or **Continue with StaffBridge**.
 
-![JyotOS Central sign-in page](../.gitbook/assets/central/central-login-light.png)
-*JyotOS Central sign-in page with institutional Google and StaffBridge Single Sign-On.*
+![JyotOS Central sign-in card](../.gitbook/assets/central/central-login-light.png)
+*JyotOS Central sign-in card with institutional StaffBridge Single Sign-On.*
 
 ### Step 3: Authenticate with Google
 
