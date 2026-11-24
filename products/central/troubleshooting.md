@@ -78,7 +78,7 @@ If these steps do not resolve your problem:
 
 * Review the [Central Frequently Asked Questions](faq.md).
 * Consult the [Getting Help Guide](../../start-here/getting-help.md) for institutional escalation contacts.
-* Share unexpected behavior via the [Feedback & Suggestions](../../feedback-and-suggestions.md) page.
+* Share unexpected behavior via the [Contact & Feedback](../../help/contact-and-feedback.md) page.
 
 ***
 

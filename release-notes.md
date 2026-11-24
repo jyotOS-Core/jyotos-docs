@@ -1,53 +1,52 @@
 # Release Notes
 
 {% hint style="info" %}
-**Guide Quick Facts**
-
-* **Estimated Reading Time:** 3 minutes
-* **Target Audience:** Internal Faculty, Department Coordinators, Management, and Development Team
-* **Applies To:** JyotOS Help Center
-* **Last Updated:** 06 August 2026 | **Version:** Internal Preview v0.3
+**Quick Facts**
+* **Audience:** All Faculty, Coordinators, Institutional Leadership, and Administrators
+* **Applies To:** JyotOS Ecosystem Documentation & Applications
+* **Order:** Newest releases first
 {% endhint %}
 
-Welcome to the **Release Notes** page for the JyotOS Help Center.
+This page documents key version releases, ecosystem milestones, and documentation updates across the JyotOS platform.
 
-This page documents key version releases, documentation scope, known limitations, and planned enhancements as the Help Center evolves to support the institutional ecosystem.
+---
 
-***
+## November 2026 — Comprehensive Ecosystem Help Center
 
-## Version 0.3 — Internal Preview
+* **Help Center Restructure:** Reorganized documentation into a unified, user-centered portal covering the four core live applications: JyotOS Central, StaffBridge, EventOS, and ClassPulse Pro.
+* **Guides by Role:** Introduced dedicated single-screen reference guides for Staff, Department Coordinators & HODs, Campus Principals, and System Administrators.
+* **Institutional Governance Suite:** Added institutional onboarding documentation, data management guidance, access control models, and a printable staff reference handout.
+* **Central Help Hub:** Consolidated platform-wide troubleshooting, common FAQs, and institutional support channels under a dedicated Help section.
+* **Extended Portfolio Roadmap:** Published the ecosystem application roadmap detailing 11 upcoming campus solutions in development.
+* **Platform Glossary:** Added plain-language definitions for key ecosystem terms and on-screen labels.
 
-**Release Date:** 06 August 2026\
-**Status:** 🟢 Published Live
+---
 
-### Scope of Version 0.3
+## November 2026 — Product Deployments & Enhancements
 
-* **Onboarding Visual Guide:** Integrated mobile interface screenshots into onboarding and media guidelines (Personal Information, Professional Credentials, Campus Mapping, Photo/Signature Upload, and Submission Summary).
+### StaffBridge
+* **Streamlined Onboarding Flow:** Enhanced self-service onboarding with simplified step-by-step forms for personal details, employment classification, qualifications, and campus selection (Amroli Campus and Chaprabhatha Campus).
+* **Two-Stage Verification:** Standardized the verification pipeline advancing profiles from Submitted to Coordinator Verified, and subsequently to Admin Verified (Ready status).
+* **Digital Staff Credentials:** Enabled digital staff ID card preview and institutional staff reference number generation.
 
-***
+### JyotOS Central
+* **Unified Application Launcher:** Deployed the central web portal at `https://jyotos.vercel.app` enabling faculty and staff to launch authorized tools using official Google accounts (`@amrolicollege.ac.in`).
+* **Access Request Queue:** Added self-service request capabilities on locked application cards with administrator review workflows.
+* **Administrative Audit Log:** Implemented chronological event logging for catalog changes, role assignments, and access modifications.
 
-## Version 0.2 — Internal Preview (Published Release)
+### EventOS
+* **Multi-Tier Event Lifecycle:** Deployed event proposal workflows for department coordinators, executive approval routing for campus principals, and participant registration for staff.
+* **Dual-Campus Venue Management:** Configured physical venues and facilities across Amroli Campus and Chaprabhatha Campus.
 
-**Release Date:** 06 August 2026\
-**Status:** 🟢 Published Live
+### ClassPulse Pro (Pilot Release)
+* **Teaching Portal & Digital Diary:** Launched faculty workspace for reviewing assigned timetable slots and recording chronological teaching diaries.
+* **HOD & Principal Centers:** Introduced department-level and campus-wide oversight centers monitoring conducted lectures against the 85% delivery target.
+* **Faculty Lecture Reconciler:** Deployed reconciliation views comparing contracted teaching quotas with conducted classroom lectures.
 
-### Scope of Version 0.2
+---
 
-* **Department Coordinator Guide:** Complete documentation suite covering department review queues, field-level correction requests, reviewer remark guidelines, and Coordinator Verification.
-* **System Administrator Guide:** Complete documentation suite covering final Admin Verification, Active Status management, master reporting center, CSV exports, and institutional governance roles.
-* **StaffBridge Troubleshooting Center:** Self-service troubleshooting suite covering access, onboarding, media capture, profile status tracking, correction responses, dashboard usage, and management queue diagnostics.
-* **StaffBridge Frequently Asked Questions (FAQ):** Comprehensive 48-question quick-answer knowledge base spanning 10 key operational and governance categories.
-* **Governance Matrix:** Comprehensive Roles & Responsibilities matrix defining operational boundaries across all four user tiers.
+## August 2026 — Initial StaffBridge Documentation
 
-***
-
-## Internal Preview v0.1 (Published Release)
-
-**Release Date:** 05 August 2026\
-**Status:** 🟢 Published Live
-
-***
-
-**Version:** Internal Preview v0.3 | **Last Updated:** 06 August 2026 | **Applies To:** JyotOS Help Center\
-**Previous Step:** ← StaffBridge | **Next Step:** Feedback & Suggestions\
-**Related Guides:** Feedback & Suggestions · Welcome to JyotOS Help Center
+* **Onboarding & Media Guidelines:** Published initial documentation covering staff onboarding steps, passport photo specifications, and digital signature capture.
+* **Coordinator & Administrator Guides:** Documented department review queues, correction request workflows, and final administrator verification.
+* **Troubleshooting & FAQ:** Launched initial StaffBridge troubleshooting resources and frequently asked questions knowledge base.

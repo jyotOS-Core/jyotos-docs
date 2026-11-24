@@ -82,13 +82,13 @@ When staff members click a locked application tile and submit a request:
 
 ***
 
-## Tamper-Evident Audit Trail
+## Audit Log: A Record of Administrative Actions
 
-Central maintains a permanent, tamper-evident audit record of all administrative activity:
+Central maintains an audit record of administrative activity:
 
 * **Recorded Events:** Application creation and updates, audience modifications, individual access grants and revocations, role changes, and request decisions.
 * **Audit Inspection:** Navigate to **Admin → Audit** to review events with server-side pagination (25, 50, 100 entries per page), action filters, and timestamps.
-* **Non-Destructive Logging:** Audit logs cannot be deleted or modified through the administration console.
+* **Direct Record-Keeping:** Audit log entries are recorded directly when actions occur.
 
 ***
 

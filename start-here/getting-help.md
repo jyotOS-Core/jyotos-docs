@@ -29,7 +29,7 @@ Before reporting an issue, consult the dedicated troubleshooting pages for step-
 
 * **JyotOS Central Issues:** See [Central Troubleshooting](../products/central/troubleshooting.md) for help with portal login alerts, locked cards, and access requests.
 * **StaffBridge & Onboarding Issues:** Visit the [StaffBridge Troubleshooting Center](../products/staffbridge/troubleshooting/README.md) for assistance with document uploads, photo specifications, and profile verification status.
-* **Frequently Asked Questions:** Review the [Frequently Asked Questions](../frequently-asked-questions.md) and [Central FAQ](../products/central/faq.md) for direct answers to common questions.
+* **Frequently Asked Questions:** Review the [Frequently Asked Questions](../help/faq.md) and [Central FAQ](../products/central/faq.md) for direct answers to common questions.
 
 ***
 
@@ -47,7 +47,7 @@ If self-service guides do not resolve your problem, reach out to the appropriate
 
 We actively improve the JyotOS ecosystem based on user feedback from faculty, staff, and coordinators.
 
-To share a suggestion, report an unexpected behavior, or propose an enhancement, visit the [Feedback & Suggestions](../feedback-and-suggestions.md) page.
+To share a suggestion, report an unexpected behavior, or propose an enhancement, visit the [Contact & Feedback](../help/contact-and-feedback.md) page.
 
 ***
 
@@ -64,4 +64,4 @@ To help administrators resolve your issue promptly, always provide:
 
 **Last Updated:** 24 November 2026 | **Applies To:** JyotOS Ecosystem\
 **Previous Step:** [← Your first 5 minutes](your-first-5-minutes.md) | **Next Step:** [JyotOS Central Overview →](../products/central/overview.md)\
-**Related Guides:** [Central Troubleshooting](../products/central/troubleshooting.md) · [StaffBridge Troubleshooting Center](../products/staffbridge/troubleshooting/README.md) · [Feedback & Suggestions](../feedback-and-suggestions.md)
+**Related Guides:** [Central Troubleshooting](../products/central/troubleshooting.md) · [StaffBridge Troubleshooting Center](../products/staffbridge/troubleshooting/README.md) · [Contact & Feedback](../help/contact-and-feedback.md)

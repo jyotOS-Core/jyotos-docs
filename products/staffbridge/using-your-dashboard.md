@@ -18,7 +18,7 @@ This guide explains how to navigate your StaffBridge personal dashboard, view yo
 
 The top card summarizes your current employment identity:
 
-* **Staff Reference ID:** Your permanent institutional identifier (e.g. `STAFF-2026-0086`).
+* **Staff Reference ID:** Your assigned institutional identifier (e.g. `STAFF-2026-0086`).
 * **Profile Status Badge:** Color-coded status indicator showing your review stage (Submitted, Coordinator Verified, Needs Correction, Correction Submitted, or Admin Verified).
 * **Primary Campus & Department:** Your appointed campus location (Amroli Campus or Chaprabhatha Campus) and primary department.
 * **Designation & Category:** Your official appointment title and employment classification.

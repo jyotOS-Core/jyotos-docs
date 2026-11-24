@@ -67,9 +67,29 @@
 * [Troubleshooting](products/classpulse-pro/troubleshooting.md)
 * [Frequently asked questions](products/classpulse-pro/faq.md)
 
-## Reference
-* [About JyotOS](about-jyotos.md)
-* [Roles and responsibilities](roles-and-responsibilities.md)
-* [Frequently asked questions](frequently-asked-questions.md)
+### More apps
+* [More applications](products/more-apps.md)
+
+## Guides by role
+* [Staff guide](guides/staff.md)
+* [Department coordinator and HOD guide](guides/coordinator-hod.md)
+* [Principal and leadership guide](guides/principal.md)
+* [Administrator guide](guides/administrator.md)
+
+## For institutions
+* [Overview](institutions/overview.md)
+* [How onboarding works](institutions/how-onboarding-works.md)
+* [Data and records management](institutions/data-and-privacy.md)
+* [Access and roles](institutions/access-and-roles.md)
+* [Staff handout](institutions/staff-handout.md)
+
+## Help
+* [Troubleshooting](help/troubleshooting.md)
+* [Frequently asked questions](help/faq.md)
+* [Contact and feedback](help/contact-and-feedback.md)
+
+## Release notes
 * [Release notes](release-notes.md)
-* [Feedback and suggestions](feedback-and-suggestions.md)
+
+## Glossary
+* [Glossary](glossary.md)
