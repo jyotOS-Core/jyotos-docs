@@ -33,8 +33,8 @@ The table below details current documentation coverage across applications withi
 |---|---|---|---|
 | **JyotOS Central** | App Launcher & Portal | 🟢 Active Rollout | [Central Overview](products/central/overview.md) |
 | **StaffBridge** | Identity & Staff Onboarding | 🟢 Active Rollout | [StaffBridge Overview](staffbridge-overview.md) |
-| **EventOS** | Event Lifecycle & Gate Pass | 🟡 Pilot Rollout | Documented (Batch 3) |
-| **ClassPulse Pro** | Academic Telemetry & AI Diary | 🟡 Pilot Rollout | Documented (Batch 4) |
+| **EventOS** | Event Lifecycle & Gate Pass | 🟡 Pilot Rollout | Coming soon |
+| **ClassPulse Pro** | Academic Telemetry & AI Diary | 🟡 Pilot Rollout | Coming soon |
 | **jyotAssist AI** | WhatsApp CRM & Grounded Helpdesk | ⏳ Coming Soon | Portfolio Application |
 | **ScholarCard AI** | Smart Student ID Lifecycle | ⏳ Coming Soon | Portfolio Application |
 | **GCAS AdmitTracker** | Admission Vacancy Intelligence | ⏳ Coming Soon | Portfolio Application |
