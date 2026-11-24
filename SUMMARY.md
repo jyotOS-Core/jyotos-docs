@@ -46,6 +46,16 @@
   * [Coordinator and administrator troubleshooting](products/staffbridge/troubleshooting/coordinator-and-administrator.md)
 * [StaffBridge FAQ](products/staffbridge/faq.md)
 
+### EventOS
+* [Overview](products/eventos/overview.md)
+* [Staff guide](products/eventos/staff-guide.md)
+* [Department coordinator guide](products/eventos/coordinator-guide.md)
+* [Principal guide](products/eventos/principal-guide.md)
+* [Administrator guide](products/eventos/administrator-guide.md)
+* [Event lifecycle](products/eventos/event-lifecycle.md)
+* [Troubleshooting](products/eventos/troubleshooting.md)
+* [Frequently asked questions](products/eventos/faq.md)
+
 ## Reference
 * [About JyotOS](about-jyotos.md)
 * [Roles and responsibilities](roles-and-responsibilities.md)
