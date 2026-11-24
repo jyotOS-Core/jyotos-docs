@@ -15,7 +15,7 @@ This guide provides troubleshooting solutions for common issues encountered duri
 
 | Symptom | Likely Cause | Solution |
 | :--- | :--- | :--- |
-| **Google Sign-In Rejected** | Signed in with a personal Gmail account | Sign out of personal accounts and sign in using your official college Google account ending in `@amrolicollege.ac.in`. |
+| **Google Sign-In Rejected** | Signed in with a personal Gmail account | Sign out of personal accounts and sign in using your college Google account ending in `@amrolicollege.ac.in`. |
 | **Profile Not Found Notice** | StaffBridge onboarding incomplete or unverified | Complete onboarding in StaffBridge. Your profile must reach Admin Verified status to be eligible for EventOS single sign-on. |
 | **"Account Inactive" Notice** | Account marked inactive in institutional settings | Contact your System Administrator to verify your employment status and reactivate your profile. |
 | **Coordinator or Principal View Missing** | Role has not been assigned in EventOS | EventOS permissions are managed independently from StaffBridge. Contact your System Administrator to assign your role. |
@@ -59,7 +59,7 @@ This guide provides troubleshooting solutions for common issues encountered duri
 
 | Symptom | Likely Cause | Solution |
 | :--- | :--- | :--- |
-| **Cannot Submit Report Package** | Mandatory fields missing (e.g., press note) | Ensure all required fields are complete: narrative summary, section highlights, participant counts, photo captions, and official press note. |
+| **Cannot Submit Report Package** | Mandatory fields missing (e.g., press note) | Ensure all required fields are complete: narrative summary, section highlights, participant counts, photo captions, and press note. |
 | **Photo Upload Rejected** | File format unsupported or size exceeds limits | Upload images in standard JPEG or PNG format under 5 MB per photograph. |
 | **Report Status Shows "Sent Back"** | Principal requested report revisions | Open the report package in the Coordinator Workspace, read the feedback comments, update the text or media, and resubmit. |
 

@@ -55,7 +55,7 @@ Coordinators can assign faculty or staff members from the same campus as session
 
 ## Managing Session Attendance
 
-Attendance in EventOS is tracked independently for each scheduled session:
+Attendance in EventOS is tracked independently for each session:
 
 ### Opening the Attendance Window
 * Attendance recording is time-restricted. The coordinator opens the attendance window at the start of each session.
@@ -85,7 +85,7 @@ A complete report package consists of four interconnected parts submitted togeth
 2. **Detailed Sections:** Up to six structured content sections (such as inauguration, keynote highlights, technical sessions, and valedictory remarks).
 3. **Participant Statistics:** Verified attendance breakdown (total participants, staff count, student count, and volunteer count).
 4. **Photographs & Captions:** Up to six selected high-resolution event photographs, each accompanied by an informative descriptive caption.
-5. **Official Press Note:** An institutional press release summarizing the event for college publications, media dissemination, and IQAC records.
+5. **Press Note:** A summary of the event for college announcements and records.
 
 ### Report Review & Approval
 1. Review all sections, statistics, captions, and the press note.

@@ -4,17 +4,17 @@
 **Quick Facts**
 * **Audience:** Faculty, staff, department coordinators, principals, and administrators
 * **Applies To:** EventOS (Academic Event Lifecycle Management System)
-* **Access Method:** Single sign-on using official college account via JyotOS Central
+* **Access Method:** Single sign-on using college account via JyotOS Central
 * **Availability Note:** EventOS is being introduced to staff in stages.
 {% endhint %}
 
-EventOS is the official academic and co-curricular event management platform for Amroli College. It provides an institutional system of record that unifies the complete event lifecycle—from initial proposal and administrative approval to participant registration, session attendance tracking, post-event reporting, and public archival.
+EventOS is the academic and co-curricular event management platform for Amroli College. It provides a system of record that unifies the complete event lifecycle—from initial proposal and administrative approval to participant registration, session attendance tracking, post-event reporting, and archival.
 
 ---
 
 ## Availability Note
 
-EventOS is being introduced to staff in stages. Initial access is available to designated pilot staff, coordinators, and institutional leadership. Broader rollout to all faculty and departments is scheduled in progressive phases.
+EventOS is being introduced to staff in stages. Initial access is available to designated pilot staff, coordinators, and institutional leadership. More staff will get access over time.
 
 ---
 
@@ -24,9 +24,9 @@ EventOS replaces informal messages, paper registers, and scattered sign-up sheet
 
 * **Event Proposals & Approvals:** Department coordinators propose academic workshops, seminars, cultural functions, and sports events. Proposals follow a formal review workflow requiring campus Principal approval.
 * **Participant Eligibility & Registration:** Events define clear audience eligibility based on campus, department, and academic classification. Staff register with a single click while registration is open.
-* **Session-Level Attendance:** Attendance is tracked independently for each scheduled session using digital QR passes or recorded manual check-ins.
-* **Consolidated Post-Event Reporting:** Organizers compile a unified event report package containing session summaries, participant counts, selected photographs with captions, and an official press release.
-* **Institutional Archival:** Completed events with approved reports enter the permanent college archive, creating an auditable record of institutional activities.
+* **Session-Level Attendance:** Attendance is tracked independently for each session using digital QR passes or recorded manual check-ins.
+* **Consolidated Post-Event Reporting:** Organizers compile a unified event report package containing session summaries, participant counts, selected photographs with captions, and a press note.
+* **Institutional Archival:** Completed events with approved reports enter the college archive, creating a record of institutional events.
 
 ---
 
@@ -49,7 +49,7 @@ EventOS connects to the JyotOS ecosystem through single sign-on:
 
 1. Open the **JyotOS Central** launcher or navigate to EventOS.
 2. Click **Sign in with College Account**.
-3. Select your official college Google account ending in `@amrolicollege.ac.in`.
+3. Select your college Google account ending in `@amrolicollege.ac.in`.
 4. Your account identity is verified through StaffBridge. Upon authentication, you reach your role-specific EventOS workspace.
 
 ---

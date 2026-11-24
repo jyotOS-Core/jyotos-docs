@@ -7,7 +7,7 @@
 * **Access Requirement:** Verified staff account via StaffBridge Single Sign-On
 {% endhint %}
 
-This guide explains how faculty and staff members discover institutional events, complete registration, attend scheduled sessions with digital QR passes, and manage event registrations.
+This guide explains how faculty and staff members discover institutional events, complete registration, attend sessions with digital QR passes, and manage event registrations.
 
 ---
 
@@ -15,7 +15,7 @@ This guide explains how faculty and staff members discover institutional events,
 
 Staff members can browse upcoming, ongoing, and archived college events through the EventOS catalog:
 
-1. Sign in to EventOS using your official college Google account (`@amrolicollege.ac.in`).
+1. Sign in to EventOS using your college Google account (`@amrolicollege.ac.in`).
 2. Open the **Events** directory from the main navigation menu.
 3. Browse the event catalog or apply filters:
    * **Campus Filter:** View events organized at Amroli Campus or Chaprabhatha Campus.

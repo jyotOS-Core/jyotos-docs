@@ -14,13 +14,13 @@ Find fast answers to frequently asked questions about EventOS operations, role p
 ## 1. General and Access
 
 ### What is EventOS?
-EventOS is the official academic and co-curricular event lifecycle management platform of Amroli College. It connects proposal drafting, executive approvals, staff registration, session attendance tracking, reporting, and permanent archival in a single system.
+EventOS is the academic and co-curricular event lifecycle management platform for Amroli College. It connects proposal drafting, executive approvals, staff registration, session attendance tracking, reporting, and archival in a single system.
 
 ### Who can access EventOS?
 EventOS is available to all teaching faculty and non-teaching staff members who possess an active, verified account in StaffBridge. Access is introduced progressively in stages.
 
 ### Which login credentials do I use?
-Sign in using your official college Google Workspace account ending in `@amrolicollege.ac.in` via the JyotOS launcher. Separate passwords are not required.
+Sign in using your college Google Workspace account ending in `@amrolicollege.ac.in` via the JyotOS launcher. Separate passwords are not required.
 
 ### How are roles assigned in EventOS?
 EventOS roles (Staff, Department Coordinator, Principal, Administrator) are assigned independently by System Administrators in accordance with institutional responsibilities.
@@ -48,7 +48,7 @@ When an organizer submits changes to an already-approved event, the updates ente
 ## 3. Registration and Eligibility
 
 ### Do I need to register separately for each session of an event?
-No. You register once for the event. Your confirmed registration grants you access to all scheduled sessions within that event.
+No. You register once for the event. Your confirmed registration grants you access to all sessions within that event.
 
 ### Why do some events state I am not eligible?
 Events can specify department-level or campus-level eligibility. If your profile is not mapped to an eligible department or campus, registration is blocked.
@@ -85,7 +85,7 @@ Coordinators can extend the open window during a running session. Once closed, a
 ## 5. Event Reports and Media
 
 ### What is included in the post-event report package?
-The report package includes an executive summary narrative, structured session highlights (up to six sections), verified participant statistics, up to six curated photographs with captions, and an official press release.
+The report package includes an executive summary narrative, structured session highlights (up to six sections), verified participant statistics, up to six curated photographs with captions, and a press note.
 
 ### Are report photographs and text reviewed together?
 Yes. The entire report package—including narratives, photos, captions, and the press note—is submitted and reviewed by the Principal as a single unified package.
@@ -99,8 +99,8 @@ If an organizer edits an already-approved report, the updated report package mus
 ## 6. Cancellation and Archival
 
 ### Who can cancel an event or session?
-The campus Principal and System Administrators possess the authority to cancel an individual session or an entire event, recording an official administrative reason.
+The campus Principal and System Administrators possess the authority to cancel an individual session or an entire event, recording an administrative reason.
 
 ### What happens to completed events?
-Once all sessions conclude and the post-event report package is approved, the event enters the institutional archive. Archived events remain permanently searchable, while private contact details remain protected from public view.
+Once all sessions conclude and the post-event report package is approved, the event enters the archive. The public archive shows the event and its approved report.
 → See [Event Lifecycle](event-lifecycle.md).

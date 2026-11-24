@@ -56,7 +56,7 @@ EventOS operates with independent role-based permissions mapped from verified St
 
 ## Attendance Exceptions and Overrides
 
-EventOS supports administrative controls to resolve attendance anomalies while preserving an auditable record:
+EventOS supports administrative controls to resolve attendance anomalies and keep a record of events:
 
 * **Session Attendance Reopening:** If technical connectivity issues or delayed sessions prevent timely check-ins, an administrator can reopen a closed session's attendance window.
 * **Recorded Attendance Exceptions:** If a registered participant attended a session but could not scan their pass due to device failure, an administrator can record a manual attendance exception.
@@ -69,10 +69,10 @@ EventOS supports administrative controls to resolve attendance anomalies while p
 Administrators share cancellation and archival responsibilities with campus leadership:
 
 ### Event Cancellation
-* Administrators can cancel an individual session or an entire event when required, recording an official administrative reason.
+* Administrators can cancel an individual session or an entire event when required, recording an administrative reason.
 * Cancellation locks all active registrations and updates the event status across all public and internal views.
 
-### Permanent Archival
+### Event Archival
 * Once an event concludes and its post-event report package has received formal approval, the event enters the archival phase.
 * Administrators confirm the completeness of report records and archive the event.
-* Archived events remain permanently searchable in the institutional archive, while private participant contact details remain protected from public exposure.
+* The public archive shows the event and its approved report.

@@ -58,10 +58,10 @@ The Principal reviews the report, selected media, and press note together as one
 * **Structured Sections:** Highlights covering key sessions, speaker contributions, and student engagement.
 * **Attendance Statistics:** Verified participant counts categorized by staff, students, and volunteers.
 * **Curated Media:** Up to six high-resolution event photographs with explanatory captions.
-* **Press Note:** Formatted institutional press release intended for college archives, annual reports, and media releases.
+* **Press Note:** Formatted summary for college archives, annual reports, and announcements.
 
 ### Decision Actions
-* **Approve Report Package:** Approves the entire package. The event is formally completed and cleared for permanent institutional archival.
+* **Approve Report Package:** Approves the entire package. The event is formally completed and cleared for archival.
 * **Request Changes:** Sends the report package back to the coordinator with specific guidance on sections or media captions requiring revision.
 
 {% hint style="info" %}
@@ -75,6 +75,6 @@ If an approved report is subsequently edited by a coordinator, the updated repor
 
 In the event of unforeseen scheduling conflicts, campus emergencies, or administrative orders:
 
-* The Principal holds the authority to cancel an individual scheduled session or the entire event.
+* The Principal holds the authority to cancel an individual session or the entire event.
 * When cancelling, a formal administrative reason must be recorded.
 * Registered participants are immediately notified, and the event listing updates to reflect the cancellation.
