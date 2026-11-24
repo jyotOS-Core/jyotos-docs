@@ -16,7 +16,7 @@ This guide explains how the College Principal and campus leadership review and d
 The Principal workspace centralizes executive review queues for your campus:
 
 * **Event Proposals Queue:** New and revised event proposals awaiting institutional approval.
-* **Report Packages Queue:** Consolidated post-event reports submitted by coordinators awaiting final sign-off.
+* **Report Packages Queue (Coming soon):** Consolidated post-event reports submitted by coordinators awaiting final sign-off.
 * **Published Events Overview:** Live catalog of currently approved and ongoing campus events.
 
 ---
@@ -50,24 +50,11 @@ When an organizer needs to modify details of an already-approved event (such as 
 
 ## Reviewing Post-Event Report Packages
 
-After an event concludes, the organizing coordinator compiles and submits an event report package for administrative review:
-
-### Unified Package Evaluation
-The Principal reviews the report, selected media, and press note together as one unified submission:
-* **Executive Summary:** Overview of event execution and outcomes.
-* **Structured Sections:** Highlights covering key sessions, speaker contributions, and student engagement.
-* **Attendance Statistics:** Verified participant counts categorized by staff, students, and volunteers.
-* **Curated Media:** Up to six high-resolution event photographs with explanatory captions.
-* **Press Note:** Formatted summary for college archives, annual reports, and announcements.
-
-### Decision Actions
-* **Approve Report Package:** Approves the entire package. The event is formally completed and cleared for archival.
-* **Request Changes:** Sends the report package back to the coordinator with specific guidance on sections or media captions requiring revision.
-
-{% hint style="info" %}
-**Re-Approval Requirement**
-If an approved report is subsequently edited by a coordinator, the updated report package must be resubmitted and re-approved by the Principal before the revised contents can be published or archived.
+{% hint style="warning" %}
+**Coming soon:** Post-event report package reviews and sign-offs are not available yet.
 {% endhint %}
+
+Campus leadership will review submitted report packages—including narrative highlights, participant statistics, event photographs, and press notes—as a single unified submission before clearing events for archival.
 
 ---
 

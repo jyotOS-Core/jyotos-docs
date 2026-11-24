@@ -7,7 +7,7 @@
 * **Access Requirement:** Verified staff account via StaffBridge Single Sign-On
 {% endhint %}
 
-This guide explains how faculty and staff members discover institutional events, complete registration, attend sessions with digital QR passes, and manage event registrations.
+This guide explains how faculty and staff members discover institutional events, complete registration, and manage event registrations.
 
 ---
 
@@ -47,11 +47,11 @@ When you find an event you wish to attend:
 
 ## Managing Your Registrations
 
-To review your registered events or retrieve your attendance pass:
+To review your registered events:
 
 1. Open **My Registrations** from the navigation menu.
-2. View your active registrations, event dates, venues, and attendance statuses.
-3. Open any active event to access your personal digital attendance pass.
+2. View your active registrations, event dates, venues, and registration statuses.
+3. Open any active event to view event details and schedule.
 
 ---
 
@@ -73,10 +73,8 @@ Self-service cancellation is permitted only while the event registration window 
 
 ## Attending Event Sessions
 
-Attendance is verified on a per-session basis at the event venue:
+{% hint style="warning" %}
+**Coming soon:** Attendance verification and digital QR passes are not available yet.
+{% endhint %}
 
-1. Open **My Registrations** on your smartphone when arriving at the venue.
-2. Select the event to display your personal attendance QR pass on your screen.
-3. Present your QR pass to the event coordinator or designated session helper at the entrance.
-4. The helper scans your pass using the EventOS scanner to confirm your presence for that session.
-5. Your attendance record updates immediately on your dashboard.
+When attendance features become available, participants will display a personal QR pass from their registered event to be scanned at the session entrance.

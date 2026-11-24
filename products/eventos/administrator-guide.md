@@ -17,8 +17,8 @@ The Administrator Console provides college-wide administrative governance over E
 
 * **Master Data Management:** Campuses, departments, venues, and committees.
 * **User & Role Governance:** Role assignments and campus/department mappings.
-* **Attendance Exceptions:** Session-level manual overrides and attendance audit logs.
-* **Event Archival:** Long-term preservation of completed events and approved reports.
+* **Attendance Exceptions (Coming soon):** Session-level manual overrides and attendance audit logs.
+* **Event Archival (Coming soon):** Preservation of completed events and approved reports.
 
 ---
 
@@ -56,11 +56,11 @@ EventOS operates with independent role-based permissions mapped from verified St
 
 ## Attendance Exceptions and Overrides
 
-EventOS supports administrative controls to resolve attendance anomalies and keep a record of events:
+{% hint style="warning" %}
+**Coming soon:** Attendance exception handling and session window reopening are not available yet.
+{% endhint %}
 
-* **Session Attendance Reopening:** If technical connectivity issues or delayed sessions prevent timely check-ins, an administrator can reopen a closed session's attendance window.
-* **Recorded Attendance Exceptions:** If a registered participant attended a session but could not scan their pass due to device failure, an administrator can record a manual attendance exception.
-* **Audit Trail:** Every administrative attendance adjustment records the administrator account identifier, timestamp, and justification note in the event audit log.
+System administrators will be able to reopen closed attendance windows or record attendance exceptions with recorded administrative reasons when technical anomalies occur.
 
 ---
 
@@ -73,6 +73,9 @@ Administrators share cancellation and archival responsibilities with campus lead
 * Cancellation locks all active registrations and updates the event status across all public and internal views.
 
 ### Event Archival
-* Once an event concludes and its post-event report package has received formal approval, the event enters the archival phase.
-* Administrators confirm the completeness of report records and archive the event.
-* The public archive shows the event and its approved report.
+
+{% hint style="warning" %}
+**Coming soon:** Event archival is not available yet.
+{% endhint %}
+
+Administrators will move completed events with approved report packages into the college archive for institutional record-keeping.

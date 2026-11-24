@@ -67,32 +67,21 @@ Yes, you can cancel your registration from the My Registrations page, but only w
 
 ## 4. Attendance and QR Passes
 
-### How is attendance recorded at events?
-Attendance is verified on a per-session basis. Participants present their digital QR pass on their smartphone, which is scanned at the venue entrance by organizers or designated helpers.
+{% hint style="warning" %}
+**Coming soon:** Attendance tracking and digital QR passes are not available yet.
+{% endhint %}
 
-### Can helpers from other campuses scan attendance?
-No. Session helpers must belong to the same campus where the event is hosted and are restricted strictly to scanning attendee passes.
-
-### What if my phone battery dies or the screen is cracked?
-If a digital pass cannot be scanned, the event coordinator can verify your identity and record a manual attendance check-in.
-
-### Can a closed attendance session be reopened?
-Coordinators can extend the open window during a running session. Once closed, administrators can reopen attendance or record administrative exceptions with audit tracking.
-→ See [Coordinator Guide](coordinator-guide.md) and [Administrator Guide](administrator-guide.md).
+When attendance features launch, attendance will be recorded per session by scanning attendee digital QR passes at event venues. Coordinators will also have options to record manual check-ins when needed.
 
 ---
 
 ## 5. Event Reports and Media
 
-### What is included in the post-event report package?
-The report package includes an executive summary narrative, structured session highlights (up to six sections), verified participant statistics, up to six curated photographs with captions, and a press note.
+{% hint style="warning" %}
+**Coming soon:** Post-event reports and media submissions are not available yet.
+{% endhint %}
 
-### Are report photographs and text reviewed together?
-Yes. The entire report package—including narratives, photos, captions, and the press note—is submitted and reviewed by the Principal as a single unified package.
-
-### What happens if an approved report is edited later?
-If an organizer edits an already-approved report, the updated report package must be resubmitted for Principal review and re-approved before changes take effect.
-→ See [Coordinator Guide](coordinator-guide.md) and [Principal Guide](principal-guide.md).
+When reporting features launch, coordinators will submit unified report packages containing summaries, session highlights, participant counts, photographs, and press notes for Principal approval.
 
 ---
 
@@ -102,5 +91,10 @@ If an organizer edits an already-approved report, the updated report package mus
 The campus Principal and System Administrators possess the authority to cancel an individual session or an entire event, recording an administrative reason.
 
 ### What happens to completed events?
-Once all sessions conclude and the post-event report package is approved, the event enters the archive. The public archive shows the event and its approved report.
+
+{% hint style="warning" %}
+**Coming soon:** Event archival is not available yet.
+{% endhint %}
+
+Once post-event reporting is available and approved, completed events will move into the college archive for institutional record-keeping.
 → See [Event Lifecycle](event-lifecycle.md).

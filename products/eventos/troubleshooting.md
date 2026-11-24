@@ -35,13 +35,11 @@ This guide provides troubleshooting solutions for common issues encountered duri
 
 ## Session Attendance and QR Scanning Issues
 
-| Symptom | Likely Cause | Solution |
-| :--- | :--- | :--- |
-| **Camera View Not Opening** | Browser camera permissions blocked on device | Open browser site settings, set **Camera** to **Allow**, and refresh the scanner page. |
-| **QR Code Not Scanning** | Screen brightness too low or glare on display | Increase phone screen brightness and hold the device steady within the scanner frame. |
-| **"Outside Attendance Window" Notice** | Attendance window not yet opened or has closed | The coordinator must open or extend the session attendance window before check-ins can be scanned. |
-| **"Unmapped Scanner" Notice** | Helper assigned from a different campus | Helpers must belong to the same campus where the event is hosted. Check helper assignments in the coordinator workspace. |
-| **Phone Battery Depleted at Venue** | Physical device unavailability | Request a manual check-in from the event coordinator by providing your name and reference ID. |
+{% hint style="warning" %}
+**Coming soon:** Session attendance and QR scanning are not available yet.
+{% endhint %}
+
+Guidance for scanner permissions, display brightness, attendance windows, and check-in fallback will apply once session attendance features launch.
 
 ---
 
@@ -57,11 +55,11 @@ This guide provides troubleshooting solutions for common issues encountered duri
 
 ## Report Package Issues
 
-| Symptom | Likely Cause | Solution |
-| :--- | :--- | :--- |
-| **Cannot Submit Report Package** | Mandatory fields missing (e.g., press note) | Ensure all required fields are complete: narrative summary, section highlights, participant counts, photo captions, and press note. |
-| **Photo Upload Rejected** | File format unsupported or size exceeds limits | Upload images in standard JPEG or PNG format under 5 MB per photograph. |
-| **Report Status Shows "Sent Back"** | Principal requested report revisions | Open the report package in the Coordinator Workspace, read the feedback comments, update the text or media, and resubmit. |
+{% hint style="warning" %}
+**Coming soon:** Post-event report submission is not available yet.
+{% endhint %}
+
+Guidance for mandatory report fields, photo uploads, and revision remarks will apply once post-event reporting launches.
 
 ---
 

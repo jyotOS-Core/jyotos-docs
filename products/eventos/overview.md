@@ -16,17 +16,24 @@ EventOS is the academic and co-curricular event management platform for Amroli C
 
 EventOS is being introduced to staff in stages. Initial access is available to designated pilot staff, coordinators, and institutional leadership. More staff will get access over time.
 
+### What Works Today / Coming Soon
+
+| Status | Features Available |
+| :--- | :--- |
+| **What works today** | • Staff sign in and see events<br/>• Staff register and cancel registration<br/>• Coordinator proposes events and Principal approves |
+| **Coming soon** | • Attendance by QR scan<br/>• Post-event reports (report package, press note, archive) |
+
 ---
 
 ## Key Capabilities
 
 EventOS replaces informal messages, paper registers, and scattered sign-up sheets with structured digital workflows:
 
-* **Event Proposals & Approvals:** Department coordinators propose academic workshops, seminars, cultural functions, and sports events. Proposals follow a formal review workflow requiring campus Principal approval.
-* **Participant Eligibility & Registration:** Events define clear audience eligibility based on campus, department, and academic classification. Staff register with a single click while registration is open.
-* **Session-Level Attendance:** Attendance is tracked independently for each session using digital QR passes or recorded manual check-ins.
-* **Consolidated Post-Event Reporting:** Organizers compile a unified event report package containing session summaries, participant counts, selected photographs with captions, and a press note.
-* **Institutional Archival:** Completed events with approved reports enter the college archive, creating a record of institutional events.
+* **Event Proposals & Approvals (Live):** Department coordinators propose academic workshops, seminars, cultural functions, and sports events. Proposals follow a review workflow requiring campus Principal approval.
+* **Participant Eligibility & Registration (Live):** Events define audience eligibility based on campus, department, and academic classification. Staff register with a single click while registration is open.
+* **Session-Level Attendance (Coming soon):** In upcoming updates, attendance will be tracked independently for each session using digital QR passes.
+* **Consolidated Post-Event Reporting (Coming soon):** In upcoming updates, organizers will compile unified event report packages containing session summaries, participant counts, photographs with captions, and press notes.
+* **Institutional Archival (Coming soon):** In upcoming updates, completed events with approved reports will enter the college archive.
 
 ---
 

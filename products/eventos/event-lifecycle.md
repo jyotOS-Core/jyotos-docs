@@ -13,14 +13,14 @@ Every institutional event managed in EventOS advances through six sequential lif
 
 ## Event Lifecycle Overview
 
-| Phase | Who | What Happens |
-| :--- | :--- | :--- |
-| **1. Proposal & Scheduling** | Department Coordinator | Drafts event details, sessions, venue, and participant eligibility. |
-| **2. Review & Approval** | Campus Principal | Reviews proposal, requests changes if needed, or approves to publish. |
-| **3. Registration & Enrollment** | Staff Participants | Enrolls in the event within the open registration window and capacity. |
-| **4. Execution & Attendance** | Coordinator & Helpers | Opens session attendance window and scans attendee QR passes. |
-| **5. Reporting & Package Review** | Coordinator & Principal | Compiles report, media, and press note; Principal approves package. |
-| **6. Archival** | System Administrator | Moves completed event and approved report to the archive. |
+| Phase | Status | Who | What Happens |
+| :--- | :--- | :--- | :--- |
+| **1. Proposal & Scheduling** | **Live** | Department Coordinator | Drafts event details, sessions, venue, and participant eligibility. |
+| **2. Review & Approval** | **Live** | Campus Principal | Reviews proposal, requests changes if needed, or approves to publish. |
+| **3. Registration & Enrollment** | **Live** | Staff Participants | Enrolls in the event within the open registration window and capacity. |
+| **4. Execution & Attendance** | **Coming soon** | Coordinator & Helpers | Opens session attendance window and scans attendee QR passes. |
+| **5. Reporting & Package Review** | **Coming soon** | Coordinator & Principal | Compiles report, media, and press note; Principal approves package. |
+| **6. Archival** | **Coming soon** | System Administrator | Moves completed event and approved report to the archive. |
 
 ---
 
@@ -50,39 +50,38 @@ Every institutional event managed in EventOS advances through six sequential lif
   * Self-service cancellation is permitted before the registration window closes.
 
 ### Phase 4: Execution and Attendance Tracking
-* **Operators:** Department Coordinator and assigned same-campus helpers.
-* **Actions:** At each session, the attendance window is opened. Attendees present their personal digital QR passes, which are scanned by event organizers.
-* **Rules Enforced:**
-  * Attendance is recorded independently for each individual session.
-  * Helpers are restricted strictly to scanning attendee passes.
-  * Coordinators can extend the active attendance window if needed.
-  * System administrators can record manual exceptions or reopen closed windows with audit tracking.
+
+{% hint style="warning" %}
+**Coming soon:** Attendance tracking and QR scanning are not available yet.
+{% endhint %}
+
+During event sessions, coordinators and assigned helpers will open attendance windows and scan digital QR passes presented by attendees.
 
 ### Phase 5: Reporting and Package Approval
-* **Compiler:** Department Coordinator.
-* **Reviewer:** Campus Principal or System Administrator.
-* **Actions:** Following event conclusion, the coordinator compiles a unified report package:
-  * Executive event summary.
-  * Structured highlights across up to six thematic sections.
-  * Verified attendance breakdown (staff, students, volunteers).
-  * Up to six curated photographs with descriptive captions.
-  * Press note for college announcements and records.
-* **Outcome:** The Principal reviews and approves the package as a single combined submission. If edits are made, the package must be re-approved.
+
+{% hint style="warning" %}
+**Coming soon:** Post-event report compilation and package reviews are not available yet.
+{% endhint %}
+
+Following event conclusion, coordinators will compile a report package containing executive summaries, session highlights, participant counts, photographs, and press notes for Principal review and approval.
 
 ### Phase 6: Archival
-* **Authority:** System Administrator and Institutional Leadership.
-* **Actions:** With the report package approved, the event is closed and archived.
-* **Outcome:** The public archive shows the event and its approved report.
+
+{% hint style="warning" %}
+**Coming soon:** Event archival is not available yet.
+{% endhint %}
+
+With the report package approved, completed events and approved reports will move into the college archive for institutional record-keeping.
 
 ---
 
 ## Lifecycle Phase Matrix
 
-| Phase | Primary Actor | Key Inputs & Actions | Output State |
-| :--- | :--- | :--- | :--- |
-| **1. Proposal** | Department Coordinator | Title, agenda, venue, dates, eligibility, capacity | Proposal Submitted |
-| **2. Approval** | Campus Principal | Proposal evaluation, change requests, approval | Event Published |
-| **3. Registration** | Staff Participants | Single registration per event, waitlist enrollment | Enrolled Participant |
-| **4. Attendance** | Coordinator & Helpers | QR pass scanning, session check-ins, manual fallback | Session Attended |
-| **5. Reporting** | Coordinator & Principal | Narrative, sections, photo captions, press note | Report Approved |
-| **6. Archival** | System Administrator | Moves event and report to archive | Archived Event |
+| Phase | Status | Primary Actor | Key Inputs & Actions | Output State |
+| :--- | :--- | :--- | :--- | :--- |
+| **1. Proposal** | Live | Department Coordinator | Title, agenda, venue, dates, eligibility, capacity | Proposal Submitted |
+| **2. Approval** | Live | Campus Principal | Proposal evaluation, change requests, approval | Event Published |
+| **3. Registration** | Live | Staff Participants | Single registration per event, waitlist enrollment | Enrolled Participant |
+| **4. Attendance** | Coming soon | Coordinator & Helpers | QR pass scanning, session check-ins, manual fallback | Session Attended |
+| **5. Reporting** | Coming soon | Coordinator & Principal | Narrative, sections, photo captions, press note | Report Approved |
+| **6. Archival** | Coming soon | System Administrator | Moves event and report to archive | Archived Event |
