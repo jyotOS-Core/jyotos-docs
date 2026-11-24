@@ -1,6 +1,23 @@
 # Table of contents
 
+## Start here
 * [Welcome to JyotOS Help Center](README.md)
+* [What is JyotOS?](start-here/what-is-jyotos.md)
+* [Sign in once](start-here/sign-in-once.md)
+* [The app launcher](start-here/the-app-launcher.md)
+* [Your first 5 minutes](start-here/your-first-5-minutes.md)
+* [Getting help](start-here/getting-help.md)
+
+## Products
+
+### Central
+* [Overview](products/central/overview.md)
+* [Staff guide](products/central/staff-guide.md)
+* [Administrator guide](products/central/administrator-guide.md)
+* [Troubleshooting](products/central/troubleshooting.md)
+* [Frequently asked questions](products/central/faq.md)
+
+## StaffBridge
 * [About JyotOS](about-jyotos.md)
 * [Documentation Standards](documentation-standards.md)
 * [StaffBridge](staffbridge.md)
