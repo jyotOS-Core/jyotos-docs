@@ -14,6 +14,9 @@ This guide explains how to navigate your StaffBridge personal dashboard, view yo
 
 ## Key Dashboard Features
 
+![StaffBridge personal profile dashboard showing verified status, institutional identity details, and digital ID card preview](../../.gitbook/assets/staffbridge/staffbridge-dashboard-light.png)
+*Personal staff profile dashboard with verified status badge, departmental details, and live ID card preview.*
+
 ### 1. Profile Overview Card
 
 The top card summarizes your current employment identity:

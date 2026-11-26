@@ -13,6 +13,9 @@ This guide explains how system administrators configure institutional master dat
 
 ## Administrator Console Overview
 
+![EventOS Administrator workspace showing management modules for events, approvals, master data, and staff roles](../../.gitbook/assets/eventos/eventos-admin-workspace-light.png)
+*Administrator workspace displaying core governance tools for institutional events, approvals, and master records.*
+
 The Administrator Console provides college-wide administrative governance over EventOS operations:
 
 * **Master Data Management:** Campuses, departments, venues, and committees.
@@ -23,6 +26,9 @@ The Administrator Console provides college-wide administrative governance over E
 ---
 
 ## Institutional Master Data Management
+
+![EventOS Campuses and Venues master data configuration interface](../../.gitbook/assets/eventos/eventos-admin-campuses-light.png)
+*Master data management screen for campus facilities, venue capacity, and location settings.*
 
 Administrators maintain the core organizational entities referenced across all events:
 

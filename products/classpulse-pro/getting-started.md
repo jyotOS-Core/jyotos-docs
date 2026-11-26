@@ -23,6 +23,9 @@ Before accessing ClassPulse Pro, ensure you have:
 
 ## Signing In for the Pilot
 
+![ClassPulse Pro pilot sign in interface with institutional email and password authentication](../../.gitbook/assets/classpulse-pro/classpulse-login-pilot-dark.png)
+*ClassPulse Pro pilot sign-in page for academic workload and timetable reconciliation.*
+
 During the initial pilot period, sign in directly using your assigned credentials:
 
 1. Open the ClassPulse Pro sign-in page.

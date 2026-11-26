@@ -9,6 +9,9 @@
 
 The JyotOS Institution Management System provides an integrated digital environment designed for higher education institutions. It connects faculty, departmental leadership, and campus administration through a shared identity layer and specialized operational applications.
 
+![JyotOS Central unified portal displaying connected applications](../.gitbook/assets/central/central-apps-launcher-light.png)
+*The JyotOS Central launcher providing unified single-entry access to institutional applications.*
+
 ---
 
 ## Architecture & Ecosystem Design

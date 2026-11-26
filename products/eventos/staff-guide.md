@@ -13,6 +13,9 @@ This guide explains how faculty and staff members discover institutional events,
 
 ## Finding Events
 
+![EventOS login method selection screen showing Staff and Student sign in options](../../.gitbook/assets/eventos/eventos-login-light.png)
+*EventOS login options dialog showing Staff Login and Student Login choices.*
+
 Staff members can browse upcoming, ongoing, and archived college events through the EventOS catalog:
 
 1. Sign in to EventOS using your college Google account (`@amrolicollege.ac.in`).

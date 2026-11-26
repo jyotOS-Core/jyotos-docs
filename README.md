@@ -11,6 +11,9 @@ Welcome to the **JyotOS Help Center** — the official documentation, user guide
 
 JyotOS provides an integrated Institution Management System (IMS) designed to support academic administration, staff governance, event operations, and campus workflows. This portal provides clear, step-by-step guidance for every role, from first-time sign-in to advanced system administration.
 
+![JyotOS Central application launcher and unified dashboard](.gitbook/assets/central/central-dashboard-light.png)
+*JyotOS Central application portal and unified institutional workspace.*
+
 ---
 
 ## Who This Help Center is For

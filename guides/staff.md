@@ -26,6 +26,9 @@ This guide summarizes everyday self-service tasks for faculty and staff members 
 
 ## 2. StaffBridge (Identity & Onboarding)
 
+![StaffBridge self-service profile dashboard showing verified credentials and digital ID card preview](../.gitbook/assets/staffbridge/staffbridge-dashboard-light.png)
+*StaffBridge self-service profile dashboard showing verified credentials and digital ID card preview.*
+
 **StaffBridge** establishes and maintains your verified institutional staff profile:
 
 * **Complete Onboarding:** Enter personal information, employment classification, academic qualifications, and campus assignment.

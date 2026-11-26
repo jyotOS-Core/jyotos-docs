@@ -10,6 +10,9 @@
 
 EventOS is the academic and co-curricular event management platform for Amroli College. It provides a system of record that unifies the complete event lifecycle—from initial proposal and administrative approval to participant registration, session attendance tracking, post-event reporting, and archival.
 
+![EventOS institutional event workflow overview and landing page](../../.gitbook/assets/eventos/eventos-overview-hero-light.png)
+*EventOS institutional event workflow overview and landing page.*
+
 ---
 
 ## Availability Note
