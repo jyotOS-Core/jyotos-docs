@@ -10,8 +10,8 @@
 
 ClassPulse Pro is the academic workload reconciliation, timetable delivery tracking, and cross-division curriculum delivery balance platform for Amroli College. It connects master timetables with daily classroom teaching records, providing clear operational visibility across academic departments and campus locations.
 
-![ClassPulse Pro pilot sign in interface with institutional email and password authentication](../../.gitbook/assets/classpulse-pro/classpulse-login-pilot-dark.png)
-*ClassPulse Pro pilot sign-in page for academic workload and timetable reconciliation.*
+![ClassPulse Pro Academic Intelligence Hub showing Module Launchpad and workspace switcher](../../.gitbook/assets/classpulse-pro/classpulse-principal-launchpad-dark.png)
+*ClassPulse Pro Module Launchpad providing direct access to academic delivery, parity, and workload workspaces.*
 
 ---
 

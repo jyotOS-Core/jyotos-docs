@@ -36,6 +36,9 @@ ClassPulse Pro automatically resolves these entries to their canonical course id
 
 ## Division Alignment Indicators and Metrics
 
+![ClassPulse Pro Cross-Division Subject Parity Matrix table showing division breakdown and parity percentages](../../.gitbook/assets/classpulse-pro/classpulse-division-matrix-dark.png)
+*Track lecture counts across parallel divisions and monitor cross-division parity percentages.*
+
 For every multi-division subject, the matrix calculates two core indicators:
 
 ### 1. Velocity Spread

@@ -13,8 +13,8 @@ This guide explains how faculty and staff members discover institutional events,
 
 ## Finding Events
 
-![EventOS login method selection screen showing Staff and Student sign in options](../../.gitbook/assets/eventos/eventos-login-light.png)
-*EventOS login options dialog showing Staff Login and Student Login choices.*
+![EventOS Published events directory displaying filterable campus event cards](../../.gitbook/assets/eventos/eventos-catalog-light.png)
+*Step 1: Browse approved and open campus events in the Published events directory.*
 
 Staff members can browse upcoming, ongoing, and archived college events through the EventOS catalog:
 
@@ -29,6 +29,9 @@ Staff members can browse upcoming, ongoing, and archived college events through 
 ---
 
 ## Registering for an Event
+
+![EventOS event details view displaying schedule, venue, capacity, and the Register for this event button](../../.gitbook/assets/eventos/eventos-event-detail-light.png)
+*Step 2: Review event schedule and click Register for this event while registration is open.*
 
 When you find an event you wish to attend:
 

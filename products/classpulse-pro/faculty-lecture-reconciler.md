@@ -13,6 +13,9 @@ The **Faculty Lecture Reconciler** is the institutional workload review workstat
 
 ## Reconciliation Calculations
 
+![ClassPulse Pro Faculty Lecture Reconciler comparing expected load, delivered sessions, variance, and delivery rate](../../.gitbook/assets/classpulse-pro/classpulse-reconciler-dark.png)
+*Compare expected contract lectures against actual delivered classes and variance across department faculty.*
+
 The reconciler calculates expected hours and delivery variances using transparent mathematical principles:
 
 ### 1. Expected Hours Calculation

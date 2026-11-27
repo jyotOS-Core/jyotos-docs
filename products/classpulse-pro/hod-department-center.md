@@ -22,6 +22,9 @@ To maintain clear organizational boundaries, ClassPulse Pro applies role-based s
 
 ## Department Aggregate KPIs
 
+![ClassPulse Pro HOD Department Command Center showing department adherence KPIs and faculty roster cards](../../.gitbook/assets/classpulse-pro/classpulse-hod-center-dark.png)
+*Inspect departmental lecture totals, adherence rate, and per-instructor pacing cards in the HOD Department Center.*
+
 The summary strip at the top of the workspace highlights key departmental indicators for the selected date window:
 
 * **Department Faculty:** Total number of instructors actively assigned teaching hours in the department.

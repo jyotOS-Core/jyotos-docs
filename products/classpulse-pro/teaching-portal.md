@@ -13,6 +13,9 @@
 
 ## Workspace Overview
 
+![ClassPulse Pro Staff Lecture Self-Service Portal showing weekly load, delivered sessions, and Teacher's Diary](../../.gitbook/assets/classpulse-pro/classpulse-teaching-diary-dark.png)
+*Review contracted weekly hours, personal delivery rate, and logged sessions in the Interactive Teacher's Diary.*
+
 When faculty members sign in to ClassPulse Pro, the portal provides immediate visibility into personal teaching commitments:
 
 * **Weekly Timetable Load:** Your contracted teaching commitment expressed in weekly periods (e.g., `18 hrs/wk`).

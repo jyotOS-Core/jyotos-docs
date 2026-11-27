@@ -24,6 +24,9 @@ Institutional leaders use this dashboard to answer high-level academic governanc
 
 ## Dual-Mode View Switcher
 
+![ClassPulse Pro header switcher toggling between Module Launchpad and Principal Executive View](../../.gitbook/assets/classpulse-pro/classpulse-principal-launchpad-dark.png)
+*Use the top view switcher to move between the Module Launchpad and the Principal Executive View.*
+
 On the main landing page, executive accounts have access to a view switcher in the header:
 
 * **Module Launchpad:** Displays the full catalog of eleven workspace cards with quick search, role badges, and category filters.

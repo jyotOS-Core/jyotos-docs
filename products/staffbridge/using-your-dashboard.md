@@ -14,9 +14,6 @@ This guide explains how to navigate your StaffBridge personal dashboard, view yo
 
 ## Key Dashboard Features
 
-![StaffBridge personal profile dashboard showing verified status, institutional identity details, and digital ID card preview](../../.gitbook/assets/staffbridge/staffbridge-dashboard-light.png)
-*Personal staff profile dashboard with verified status badge, departmental details, and live ID card preview.*
-
 ### 1. Profile Overview Card
 
 The top card summarizes your current employment identity:
@@ -48,6 +45,9 @@ StaffBridge supports browser-based Web Push alerts:
 ### 5. Staff Directory Navigation
 
 The navigation bar on your dashboard includes a link to the **Staff Directory**. The directory allows you to browse colleagues across academic departments and campuses with official contact information.
+
+![StaffBridge campus-grouped institutional staff directory displaying department rosters](../../.gitbook/assets/staffbridge/staffbridge-staff-directory-light.png)
+*Navigating the StaffBridge Staff Directory across Amroli and Chaprabhatha campuses.*
 
 ***
 

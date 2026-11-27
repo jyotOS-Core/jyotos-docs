@@ -40,9 +40,6 @@ StaffBridge manages the institutional staff identity lifecycle and profile verif
 
 ## 3. EventOS (Event Management Administration)
 
-![EventOS Administrator workspace showing governance tools](../.gitbook/assets/eventos/eventos-admin-workspace-light.png)
-*EventOS administrator dashboard for campus venue configuration, department setup, and event oversight.*
-
 EventOS provides institutional event administration and venue configuration:
 
 * **Campus & Venue Setup:** Define physical venues, room capacities, and facilities across Amroli and Chaprabhatha campuses.

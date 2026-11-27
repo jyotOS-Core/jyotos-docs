@@ -23,9 +23,6 @@ Before accessing ClassPulse Pro, ensure you have:
 
 ## Signing In for the Pilot
 
-![ClassPulse Pro pilot sign in interface with institutional email and password authentication](../../.gitbook/assets/classpulse-pro/classpulse-login-pilot-dark.png)
-*ClassPulse Pro pilot sign-in page for academic workload and timetable reconciliation.*
-
 During the initial pilot period, sign in directly using your assigned credentials:
 
 1. Open the ClassPulse Pro sign-in page.
@@ -61,6 +58,9 @@ The collapsible left sidebar groups features into core operational categories:
 
 ### 3. Module Launchpad
 On the home screen, the **Module Launchpad** presents available workspaces as interactive cards with search and category filters, allowing quick access to all relevant academic tools.
+
+![ClassPulse Pro Module Launchpad showing categorized workspace cards and search bar](../../.gitbook/assets/classpulse-pro/classpulse-principal-launchpad-dark.png)
+*Select your workspace card from the ClassPulse Pro Module Launchpad after signing in.*
 
 ---
 
